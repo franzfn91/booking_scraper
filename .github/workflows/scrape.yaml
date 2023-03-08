@@ -3,7 +3,7 @@ name: Finding Hotels
 on:
   workflow_dispatch:
   schedule:
-    - cron: '30 8-23 * * *'
+    - cron: '30 * * * *'
   push:
     branches: main
 
