@@ -1,6 +1,7 @@
 name: Finding Hotels
 
 on:
+  workflow_dispatch:
   schedule:
     - cron: '30 8-23 * * *'
   push:
