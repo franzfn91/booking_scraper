@@ -7,8 +7,8 @@ from booking_scraper.cli import run
 @pytest.mark.asyncio
 async def test_run():
     data_store_file = pathlib.Path("tests/datastore.json")
-    config_file = pathlib.Path("rovinj.json")
-    send_notifications = False
+    config_file = pathlib.Path("config.json")
+    send_notifications = True
     kwargs = {}
 
     # Call the run function with the test arguments

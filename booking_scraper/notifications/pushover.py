@@ -8,7 +8,7 @@ import aiohttp
 import asyncio
 
 if ty.TYPE_CHECKING:
-    from booking_scraper import Result
+    from booking_scraper import Result, HotelItem
 
 BASE_URL = "https://api.pushover.net"
 
@@ -59,8 +59,15 @@ async def send_notification(session: aiohttp.ClientSession, config: PushoverConf
     params = config.to_params()
 
     plural = "" if len(result.hotelitems) == 1 else "s"
-    params["message"] = f"Found {len(result.hotelitems)} new ad{plural} for '{result.search_config.name}'"
+
+    params["html"] = str(1)
+    params["message"] = (
+        f"<b>Found {len(result.hotelitems)} new ad{plural} for {result.search_config.name}</b>"
+        + "\n"
+        + f'<a href="{result.hotelitems[0].url}">{result.hotelitems[0].title}</a>'
+    )
     params["url"] = result.search_config.url
+    params["url_title"] = "showing one stay, to show all click here"
 
     resp = await session.post("/1/messages.json", params=params)
     resp.raise_for_status()
