@@ -1,0 +1,19 @@
+{
+  "filter": {
+    "exclude_patterns": []
+  },
+  "notifications": {
+    "pushover": {
+      "token": "token",
+      "user": "user",
+      "device": []
+    }
+  },
+  "searches": [
+    {
+      "name": "rovinj",
+      "url": "https://www.booking.com/searchresults.de.html?label=gen173nr-1FCAEoggI46AdIB1gEaDuIAQGYAQe4AQfIAQzYAQHoAQH4AQKIAgGoAgO4ArLCnaAGwAIB0gIkZjk0MzE1NzYtNjJiYS00OTcyLTgwMWEtOGU1NTgyOGQ1OWE52AIF4AIB&aid=304142&ss=Rovinj&ssne=Rovinj&ssne_untouched=Rovinj&lang=de&src=index&dest_id=-94604&dest_type=city&checkin=2023-06-03&checkout=2023-06-12&group_adults=2&no_rooms=1&group_children=0&sb_travel_purpose=leisure&nflt=distance%3D1000%3Boos%3D1%3Breview_score%3D80",
+      "recursive": false
+    }
+  ]
+}

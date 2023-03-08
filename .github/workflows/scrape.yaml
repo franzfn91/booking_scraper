@@ -1,0 +1,42 @@
+name: Finding Hotels
+
+on:
+  schedule:
+    - cron: '30 8-23 * * *'
+  push:
+    branches: main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
+
+    - name: Set up Python 3.9
+      uses: actions/setup-python@v2
+      with:
+        python-version: 3.9
+
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
+    - name: add secrets to config
+      env:
+        USERTOKEN: ${{ secrets.USERTOKEN }}
+        APPTOKEN: ${{ secrets.APPTOKEN }}
+      run: python add_secrets_to_config.py
+
+    - name: Execute booking scraper
+      run: |
+        echo "Running a bash command"
+        booking-scraper run --data-store ./data_store.json config.json
+    - name: Commit changes
+      run: |
+        git config --global user.email "actions@github.com"
+        git config --global user.name "GitHub Actions"
+        git add ./data_store.json
+        git commit -m "Committing updated data store via GitHub Actions" || echo "Nothing to push"
+        git push origin main

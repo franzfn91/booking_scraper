@@ -1,0 +1,50 @@
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "booking-scraper"
+description = "Simple scraper for Booking that can notifiy for new ads."
+readme = "README.md"
+requires-python = ">=3.9"
+license = {text = "MIT"}
+keywords = ["scraper"]
+authors = [
+  {name = "Florian Franz"}, {email = "flofra90@icloud.com"},
+]
+classifiers = [
+  "Environment :: Console",
+  "License :: OSI Approved :: MIT License",
+  "Operating System :: OS Independent",
+  "Programming Language :: Python",
+]
+dependencies = [
+    "aiohttp<4",
+    "beautifulsoup4",
+    "lxml<5",
+]
+dynamic = ["version"]
+
+[project.optional-dependencies]
+dev = [
+    "black==23.1.0",
+    "pre-commit",
+    "types-beautifulsoup4",
+    "pytest-asyncio"
+]
+
+[project.urls]
+homepage = "https://github.com/franfzn91/booking-scraper"
+repository = "https://github.com/franzfn91/booking-scraper"
+
+[project.scripts]
+booking-scraper = "booking_scraper.cli:main"
+
+[tool.setuptools.packages.find]
+include = ["booking_scraper*"]
+
+[tool.setuptools.dynamic]
+version = {attr = "booking_scraper.__version__"}
+
+[tool.black]
+line-length = 120
