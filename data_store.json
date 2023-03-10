@@ -193,5 +193,15 @@
     "url": "https://www.booking.com/hotel/hr/rovigno-bella-apartment.de.html?label=gen173nr-1FCAEoggI46AdIB1gEaDuIAQGYAQe4AQfIAQzYAQHoAQH4AQKIAgGoAgO4ArLCnaAGwAIB0gIkZjk0MzE1NzYtNjJiYS00OTcyLTgwMWEtOGU1NTgyOGQ1OWE52AIF4AIB&aid=304142&ucfs=1&arphpl=1&checkin=2023-06-03&checkout=2023-06-12&dest_id=-94604&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=24&hapos=24&sr_order=popularity&nflt=distance%3D1000%3Boos%3D1%3Breview_score%3D80&srpvid=c5825b6f9e0b0842&srepoch=1678453215&all_sr_blocks=238691801_344798336_2_0_0&highlighted_blocks=238691801_344798336_2_0_0&matching_block_id=238691801_344798336_2_0_0&sr_pri_blocks=238691801_344798336_2_0_0__239000&from=searchresults#hotelTmpl",
     "title": "Rovigno Bella sea view Apartment",
     "price": "US$2.526"
+  },
+  "Garzoto rooms and studios": {
+    "url": "https://www.booking.com/hotel/hr/studio-baby.de.html?label=gen173nr-1FCAEoggI46AdIB1gEaDuIAQGYAQe4AQfIAQzYAQHoAQH4AQKIAgGoAgO4ArLCnaAGwAIB0gIkZjk0MzE1NzYtNjJiYS00OTcyLTgwMWEtOGU1NTgyOGQ1OWE52AIF4AIB&aid=304142&ucfs=1&arphpl=1&checkin=2023-06-03&checkout=2023-06-12&dest_id=-94604&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=31&hapos=31&sr_order=popularity&nflt=distance%3D1000%3Boos%3D1%3Breview_score%3D80&srpvid=fc606e04c1260025&srepoch=1678462731&all_sr_blocks=331340602_344798244_2_0_0&highlighted_blocks=331340602_344798244_2_0_0&matching_block_id=331340602_344798244_2_0_0&sr_pri_blocks=331340602_344798244_2_0_0__135400&from=searchresults#hotelTmpl",
+    "title": "Garzoto rooms and studios",
+    "price": "US$1.431"
+  },
+  "Studio S. Benedetto": {
+    "url": "https://www.booking.com/hotel/hr/studio-s-benedetto.de.html?label=gen173nr-1FCAEoggI46AdIB1gEaDuIAQGYAQe4AQfIAQzYAQHoAQH4AQKIAgGoAgO4ArLCnaAGwAIB0gIkZjk0MzE1NzYtNjJiYS00OTcyLTgwMWEtOGU1NTgyOGQ1OWE52AIF4AIB&aid=304142&ucfs=1&arphpl=1&checkin=2023-06-03&checkout=2023-06-12&dest_id=-94604&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=35&hapos=35&sr_order=popularity&nflt=distance%3D1000%3Boos%3D1%3Breview_score%3D80&srpvid=fc606e04c1260025&srepoch=1678462731&all_sr_blocks=592984901_346697103_0_0_0&highlighted_blocks=592984901_346697103_0_0_0&matching_block_id=592984901_346697103_0_0_0&sr_pri_blocks=592984901_346697103_0_0_0__124000&from=searchresults#hotelTmpl",
+    "title": "Studio S. Benedetto",
+    "price": "US$1.311"
   }
 }
