@@ -178,5 +178,20 @@
     "url": "https://www.booking.com/hotel/hr/apartments-nevija.de.html?label=gen173nr-1FCAEoggI46AdIB1gEaDuIAQGYAQe4AQfIAQzYAQHoAQH4AQKIAgGoAgO4ArLCnaAGwAIB0gIkZjk0MzE1NzYtNjJiYS00OTcyLTgwMWEtOGU1NTgyOGQ1OWE52AIF4AIB&aid=304142&ucfs=1&arphpl=1&checkin=2023-06-03&checkout=2023-06-12&dest_id=-94604&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=17&hapos=17&sr_order=popularity&nflt=distance%3D1000%3Boos%3D1%3Breview_score%3D80&srpvid=22b26705d3e601a4&srepoch=1678372748&all_sr_blocks=179780202_118755901_2_0_0&highlighted_blocks=179780202_118755901_2_0_0&matching_block_id=179780202_118755901_2_0_0&sr_pri_blocks=179780202_118755901_2_0_0__116100&from=searchresults#hotelTmpl",
     "title": "Apartments Nevija",
     "price": "US$1.225"
+  },
+  "Studio Apartment Kris": {
+    "url": "https://www.booking.com/hotel/hr/studio-kris.de.html?label=gen173nr-1FCAEoggI46AdIB1gEaDuIAQGYAQe4AQfIAQzYAQHoAQH4AQKIAgGoAgO4ArLCnaAGwAIB0gIkZjk0MzE1NzYtNjJiYS00OTcyLTgwMWEtOGU1NTgyOGQ1OWE52AIF4AIB&aid=304142&ucfs=1&arphpl=1&checkin=2023-06-03&checkout=2023-06-12&dest_id=-94604&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=12&hapos=12&sr_order=popularity&nflt=distance%3D1000%3Boos%3D1%3Breview_score%3D80&srpvid=c5825b6f9e0b0842&srepoch=1678453215&all_sr_blocks=251864101_344798269_0_0_0&highlighted_blocks=251864101_344798269_0_0_0&matching_block_id=251864101_344798269_0_0_0&sr_pri_blocks=251864101_344798269_0_0_0__131200&from=searchresults#hotelTmpl",
+    "title": "Studio Apartment Kris",
+    "price": "US$1.387"
+  },
+  "Apartments and Rooms Luan": {
+    "url": "https://www.booking.com/hotel/hr/apartments-and-rooms-luan.de.html?label=gen173nr-1FCAEoggI46AdIB1gEaDuIAQGYAQe4AQfIAQzYAQHoAQH4AQKIAgGoAgO4ArLCnaAGwAIB0gIkZjk0MzE1NzYtNjJiYS00OTcyLTgwMWEtOGU1NTgyOGQ1OWE52AIF4AIB&aid=304142&ucfs=1&arphpl=1&checkin=2023-06-03&checkout=2023-06-12&dest_id=-94604&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=13&hapos=13&sr_order=popularity&nflt=distance%3D1000%3Boos%3D1%3Breview_score%3D80&srpvid=c5825b6f9e0b0842&srepoch=1678453215&all_sr_blocks=758379401_344795893_2_0_0&highlighted_blocks=758379401_344795893_2_0_0&matching_block_id=758379401_344795893_2_0_0&sr_pri_blocks=758379401_344795893_2_0_0__143300&from=searchresults#hotelTmpl",
+    "title": "Apartments and Rooms Luan",
+    "price": "US$1.515"
+  },
+  "Rovigno Bella sea view Apartment": {
+    "url": "https://www.booking.com/hotel/hr/rovigno-bella-apartment.de.html?label=gen173nr-1FCAEoggI46AdIB1gEaDuIAQGYAQe4AQfIAQzYAQHoAQH4AQKIAgGoAgO4ArLCnaAGwAIB0gIkZjk0MzE1NzYtNjJiYS00OTcyLTgwMWEtOGU1NTgyOGQ1OWE52AIF4AIB&aid=304142&ucfs=1&arphpl=1&checkin=2023-06-03&checkout=2023-06-12&dest_id=-94604&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=24&hapos=24&sr_order=popularity&nflt=distance%3D1000%3Boos%3D1%3Breview_score%3D80&srpvid=c5825b6f9e0b0842&srepoch=1678453215&all_sr_blocks=238691801_344798336_2_0_0&highlighted_blocks=238691801_344798336_2_0_0&matching_block_id=238691801_344798336_2_0_0&sr_pri_blocks=238691801_344798336_2_0_0__239000&from=searchresults#hotelTmpl",
+    "title": "Rovigno Bella sea view Apartment",
+    "price": "US$2.526"
   }
 }
