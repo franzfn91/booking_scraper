@@ -253,5 +253,10 @@
     "url": "https://www.booking.com/hotel/hr/old-town-rovinj-city-center.de.html?label=gen173nr-1FCAEoggI46AdIB1gEaDuIAQGYAQe4AQfIAQzYAQHoAQH4AQKIAgGoAgO4ArLCnaAGwAIB0gIkZjk0MzE1NzYtNjJiYS00OTcyLTgwMWEtOGU1NTgyOGQ1OWE52AIF4AIB&aid=304142&ucfs=1&arphpl=1&checkin=2023-06-03&checkout=2023-06-12&dest_id=-94604&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=34&hapos=34&sr_order=popularity&nflt=distance%3D1000%3Boos%3D1%3Breview_score%3D80&srpvid=3e799f1f8248002b&srepoch=1678747071&all_sr_blocks=146974401_369837205_4_0_0&highlighted_blocks=146974401_369837205_4_0_0&matching_block_id=146974401_369837205_4_0_0&sr_pri_blocks=146974401_369837205_4_0_0__99360&from=searchresults#hotelTmpl",
     "title": "Old town Rovinj city center",
     "price": "US$1.062"
+  },
+  "Apartments Casa Ivona": {
+    "url": "https://www.booking.com/hotel/hr/apartments-casa-ivona.de.html?label=gen173nr-1FCAEoggI46AdIB1gEaDuIAQGYAQe4AQfIAQzYAQHoAQH4AQKIAgGoAgO4ArLCnaAGwAIB0gIkZjk0MzE1NzYtNjJiYS00OTcyLTgwMWEtOGU1NTgyOGQ1OWE52AIF4AIB&aid=304142&ucfs=1&arphpl=1&checkin=2023-06-03&checkout=2023-06-12&dest_id=-94604&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=19&hapos=19&sr_order=popularity&nflt=distance%3D1000%3Boos%3D1%3Breview_score%3D80&srpvid=cf014b5364720100&srepoch=1678790568&all_sr_blocks=140538102_181103683_2_0_0&highlighted_blocks=140538102_181103683_2_0_0&matching_block_id=140538102_181103683_2_0_0&sr_pri_blocks=140538102_181103683_2_0_0__90000&from=searchresults#hotelTmpl",
+    "title": "Apartments Casa Ivona",
+    "price": "US$966"
   }
 }
