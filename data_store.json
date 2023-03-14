@@ -263,5 +263,10 @@
     "url": "https://www.booking.com/hotel/hr/bruno-apartment-rovinj.de.html?label=gen173nr-1FCAEoggI46AdIB1gEaDuIAQGYAQe4AQfIAQzYAQHoAQH4AQKIAgGoAgO4ArLCnaAGwAIB0gIkZjk0MzE1NzYtNjJiYS00OTcyLTgwMWEtOGU1NTgyOGQ1OWE52AIF4AIB&aid=304142&ucfs=1&arphpl=1&checkin=2023-06-03&checkout=2023-06-12&dest_id=-94604&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=2&hapos=2&sr_order=popularity&nflt=distance%3D1000%3Boos%3D1%3Breview_score%3D80&srpvid=c58261106f37030a&srepoch=1678801697&all_sr_blocks=515172502_315483117_3_0_0&highlighted_blocks=515172502_315483117_3_0_0&matching_block_id=515172502_315483117_3_0_0&sr_pri_blocks=515172502_315483117_3_0_0__97500&from=searchresults#hotelTmpl",
     "title": "Bruno Apartment",
     "price": "US$1.046"
+  },
+  "Apartment San Elena": {
+    "url": "https://www.booking.com/hotel/hr/marevista-rovinj.de.html?label=gen173nr-1FCAEoggI46AdIB1gEaDuIAQGYAQe4AQfIAQzYAQHoAQH4AQKIAgGoAgO4ArLCnaAGwAIB0gIkZjk0MzE1NzYtNjJiYS00OTcyLTgwMWEtOGU1NTgyOGQ1OWE52AIF4AIB&aid=304142&ucfs=1&arphpl=1&checkin=2023-06-03&checkout=2023-06-12&dest_id=-94604&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=14&hapos=14&sr_order=popularity&nflt=distance%3D1000%3Boos%3D1%3Breview_score%3D80&srpvid=1b4a916d0315002b&srepoch=1678826460&all_sr_blocks=114108201_332979696_2_0_0&highlighted_blocks=114108201_332979696_2_0_0&matching_block_id=114108201_332979696_2_0_0&sr_pri_blocks=114108201_332979696_2_0_0__135000&from_sustainable_property_sr=1&from=searchresults#hotelTmpl",
+    "title": "Apartment San Elena",
+    "price": "US$1.449"
   }
 }
