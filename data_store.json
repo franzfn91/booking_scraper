@@ -298,5 +298,10 @@
     "url": "https://www.booking.com/hotel/hr/stylish-apartments.de.html?label=gen173nr-1FCAEoggI46AdIB1gEaDuIAQGYAQe4AQfIAQzYAQHoAQH4AQKIAgGoAgO4ArLCnaAGwAIB0gIkZjk0MzE1NzYtNjJiYS00OTcyLTgwMWEtOGU1NTgyOGQ1OWE52AIF4AIB&aid=304142&ucfs=1&arphpl=1&checkin=2023-06-03&checkout=2023-06-12&dest_id=-94604&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=4&hapos=4&sr_order=popularity&nflt=distance%3D1000%3Boos%3D1%3Breview_score%3D80&srpvid=40fe5fddd9870151&srepoch=1679060285&all_sr_blocks=192663802_327205519_4_0_0&highlighted_blocks=192663802_327205519_4_0_0&matching_block_id=192663802_327205519_4_0_0&sr_pri_blocks=192663802_327205519_4_0_0__143100&from=searchresults#hotelTmpl",
     "title": "Mare e Terra",
     "price": "US$1.520"
+  },
+  "Apartment Carmela": {
+    "url": "https://www.booking.com/hotel/hr/apartment-carmela.de.html?label=gen173nr-1FCAEoggI46AdIB1gEaDuIAQGYAQe4AQfIAQzYAQHoAQH4AQKIAgGoAgO4ArLCnaAGwAIB0gIkZjk0MzE1NzYtNjJiYS00OTcyLTgwMWEtOGU1NTgyOGQ1OWE52AIF4AIB&aid=304142&ucfs=1&arphpl=1&checkin=2023-06-03&checkout=2023-06-12&dest_id=-94604&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=31&hapos=31&sr_order=popularity&nflt=distance%3D1000%3Boos%3D1%3Breview_score%3D80&srpvid=264875c6dcbb023f&srepoch=1679071503&all_sr_blocks=102807601_91888786_0_0_0&highlighted_blocks=102807601_91888786_0_0_0&matching_block_id=102807601_91888786_0_0_0&sr_pri_blocks=102807601_91888786_0_0_0__180000&from=searchresults#hotelTmpl",
+    "title": "Apartment Carmela",
+    "price": "US$1.912"
   }
 }
