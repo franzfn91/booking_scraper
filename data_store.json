@@ -308,5 +308,10 @@
     "url": "https://www.booking.com/hotel/hr/istrian-soul.de.html?label=gen173nr-1FCAEoggI46AdIB1gEaDuIAQGYAQe4AQfIAQzYAQHoAQH4AQKIAgGoAgO4ArLCnaAGwAIB0gIkZjk0MzE1NzYtNjJiYS00OTcyLTgwMWEtOGU1NTgyOGQ1OWE52AIF4AIB&aid=304142&ucfs=1&arphpl=1&checkin=2023-06-03&checkout=2023-06-12&dest_id=-94604&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=24&hapos=24&sr_order=popularity&nflt=distance%3D1000%3Boos%3D1%3Breview_score%3D80&srpvid=d8569806f6d7018b&srepoch=1679089037&all_sr_blocks=862901602_354487239_2_0_0&highlighted_blocks=862901602_354487239_2_0_0&matching_block_id=862901602_354487239_2_0_0&sr_pri_blocks=862901602_354487239_2_0_0__78300&from=searchresults#hotelTmpl",
     "title": "Istrian Soul",
     "price": "US$832"
+  },
+  "Old Town Splendid Apartments by Irundo": {
+    "url": "https://www.booking.com/hotel/hr/stone-old-town-svalba-apartments-by-irundo.de.html?label=gen173nr-1FCAEoggI46AdIB1gEaDuIAQGYAQe4AQfIAQzYAQHoAQH4AQKIAgGoAgO4ArLCnaAGwAIB0gIkZjk0MzE1NzYtNjJiYS00OTcyLTgwMWEtOGU1NTgyOGQ1OWE52AIF4AIB&aid=304142&ucfs=1&arphpl=1&checkin=2023-06-03&checkout=2023-06-12&dest_id=-94604&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=3&hapos=3&sr_order=popularity&nflt=distance%3D1000%3Boos%3D1%3Breview_score%3D80&srpvid=5a6c51acd6da00f5&srepoch=1679139417&all_sr_blocks=712208103_297710887_2_0_0&highlighted_blocks=712208103_297710887_2_0_0&matching_block_id=712208103_297710887_2_0_0&sr_pri_blocks=712208103_297710887_2_0_0__126300&from=searchresults#hotelTmpl",
+    "title": "Old Town Splendid Apartments by Irundo",
+    "price": "US$1.345"
   }
 }
