@@ -328,5 +328,10 @@
     "url": "https://www.booking.com/hotel/hr/casa-albina.de.html?label=gen173nr-1FCAEoggI46AdIB1gEaDuIAQGYAQe4AQfIAQzYAQHoAQH4AQKIAgGoAgO4ArLCnaAGwAIB0gIkZjk0MzE1NzYtNjJiYS00OTcyLTgwMWEtOGU1NTgyOGQ1OWE52AIF4AIB&aid=304142&ucfs=1&arphpl=1&checkin=2023-06-03&checkout=2023-06-12&dest_id=-94604&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=14&hapos=14&sr_order=popularity&nflt=distance%3D1000%3Boos%3D1%3Breview_score%3D80&srpvid=d4b289e881ec0003&srepoch=1679254610&all_sr_blocks=852993004_352946244_2_0_0&highlighted_blocks=852993004_352946244_2_0_0&matching_block_id=852993004_352946244_2_0_0&sr_pri_blocks=852993004_352946244_2_0_0__107993&from=searchresults#hotelTmpl",
     "title": "Casa Albina",
     "price": "US$1.150"
+  },
+  "La Vela": {
+    "url": "https://www.booking.com/hotel/hr/la-vela.de.html?label=gen173nr-1FCAEoggI46AdIB1gEaDuIAQGYAQe4AQfIAQzYAQHoAQH4AQKIAgGoAgO4ArLCnaAGwAIB0gIkZjk0MzE1NzYtNjJiYS00OTcyLTgwMWEtOGU1NTgyOGQ1OWE52AIF4AIB&aid=304142&ucfs=1&arphpl=1&checkin=2023-06-03&checkout=2023-06-12&dest_id=-94604&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=17&hapos=17&sr_order=popularity&nflt=distance%3D1000%3Boos%3D1%3Breview_score%3D80&srpvid=4d8d51ab3e2b02fa&srepoch=1679312216&all_sr_blocks=316297602_161778368_2_0_0&highlighted_blocks=316297602_161778368_2_0_0&matching_block_id=316297602_161778368_2_0_0&sr_pri_blocks=316297602_161778368_2_0_0__155863&from=searchresults#hotelTmpl",
+    "title": "La Vela",
+    "price": "US$1.659"
   }
 }
