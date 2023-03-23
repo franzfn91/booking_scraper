@@ -348,5 +348,10 @@
     "url": "https://www.booking.com/hotel/hr/apartment-juraj-rovinj1.de.html?label=gen173nr-1FCAEoggI46AdIB1gEaDuIAQGYAQe4AQfIAQzYAQHoAQH4AQKIAgGoAgO4ArLCnaAGwAIB0gIkZjk0MzE1NzYtNjJiYS00OTcyLTgwMWEtOGU1NTgyOGQ1OWE52AIF4AIB&aid=304142&ucfs=1&arphpl=1&checkin=2023-06-03&checkout=2023-06-12&dest_id=-94604&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=24&hapos=24&sr_order=popularity&nflt=distance%3D1000%3Boos%3D1%3Breview_score%3D80&srpvid=109743a81c0800bd&srepoch=1679564243&all_sr_blocks=744884101_330273625_2_0_0&highlighted_blocks=744884101_330273625_2_0_0&matching_block_id=744884101_330273625_2_0_0&sr_pri_blocks=744884101_330273625_2_0_0__112500&from=searchresults#hotelTmpl",
     "title": "Apartment Juraj",
     "price": "US$1.214"
+  },
+  "Villa Dobravac Wine Estate": {
+    "url": "https://www.booking.com/hotel/hr/villa-dobravac.de.html?label=gen173nr-1FCAEoggI46AdIB1gEaDuIAQGYAQe4AQfIAQzYAQHoAQH4AQKIAgGoAgO4ArLCnaAGwAIB0gIkZjk0MzE1NzYtNjJiYS00OTcyLTgwMWEtOGU1NTgyOGQ1OWE52AIF4AIB&aid=304142&ucfs=1&arphpl=1&checkin=2023-06-03&checkout=2023-06-12&dest_id=-94604&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=4&hapos=4&sr_order=popularity&nflt=distance%3D1000%3Boos%3D1%3Breview_score%3D80&srpvid=005d4ac9fba80166&srepoch=1679567893&all_sr_blocks=30024101_344646493_0_1_0&highlighted_blocks=30024101_344646493_0_1_0&matching_block_id=30024101_344646493_0_1_0&sr_pri_blocks=30024101_344646493_0_1_0__139500&from=searchresults#hotelTmpl",
+    "title": "Villa Dobravac Wine Estate",
+    "price": "US$1.505"
   }
 }
