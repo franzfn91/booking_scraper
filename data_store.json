@@ -363,5 +363,10 @@
     "url": "https://www.booking.com/hotel/hr/royal-villa-rovinj1.de.html?label=gen173nr-1FCAEoggI46AdIB1gEaDuIAQGYAQe4AQfIAQzYAQHoAQH4AQKIAgGoAgO4ArLCnaAGwAIB0gIkZjk0MzE1NzYtNjJiYS00OTcyLTgwMWEtOGU1NTgyOGQ1OWE52AIF4AIB&aid=304142&ucfs=1&arphpl=1&checkin=2023-06-03&checkout=2023-06-12&dest_id=-94604&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=21&hapos=21&sr_order=popularity&nflt=distance%3D1000%3Boos%3D1%3Breview_score%3D80&srpvid=2ae975b09df10355&srepoch=1679589857&all_sr_blocks=311558701_265842928_6_0_0&highlighted_blocks=311558701_265842928_6_0_0&matching_block_id=311558701_265842928_6_0_0&sr_pri_blocks=311558701_265842928_6_0_0__585000&from=searchresults#hotelTmpl",
     "title": "Royal Villa",
     "price": "US$6.313"
+  },
+  "Apartment Vale": {
+    "url": "https://www.booking.com/hotel/hr/apartment-vale-rovinj.de.html?label=gen173nr-1FCAEoggI46AdIB1gEaDuIAQGYAQe4AQfIAQzYAQHoAQH4AQKIAgGoAgO4ArLCnaAGwAIB0gIkZjk0MzE1NzYtNjJiYS00OTcyLTgwMWEtOGU1NTgyOGQ1OWE52AIF4AIB&aid=304142&ucfs=1&arphpl=1&checkin=2023-06-03&checkout=2023-06-12&dest_id=-94604&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=7&hapos=7&sr_order=popularity&nflt=distance%3D1000%3Boos%3D1%3Breview_score%3D80&srpvid=05b689ebb55d033d&srepoch=1679600216&all_sr_blocks=508550901_187111222_0_0_0&highlighted_blocks=508550901_187111222_0_0_0&matching_block_id=508550901_187111222_0_0_0&sr_pri_blocks=508550901_187111222_0_0_0__71948&from=searchresults#hotelTmpl",
+    "title": "Apartment Vale",
+    "price": "US$776"
   }
 }
