@@ -373,5 +373,10 @@
     "url": "https://www.booking.com/hotel/hr/studio-bartoli.de.html?label=gen173nr-1FCAEoggI46AdIB1gEaDuIAQGYAQe4AQfIAQzYAQHoAQH4AQKIAgGoAgO4ArLCnaAGwAIB0gIkZjk0MzE1NzYtNjJiYS00OTcyLTgwMWEtOGU1NTgyOGQ1OWE52AIF4AIB&aid=304142&ucfs=1&arphpl=1&checkin=2023-06-03&checkout=2023-06-12&dest_id=-94604&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=5&hapos=5&sr_order=popularity&nflt=distance%3D1000%3Boos%3D1%3Breview_score%3D80&srpvid=65e53cba6d260112&srepoch=1679647095&all_sr_blocks=260642902_143262884_4_0_0&highlighted_blocks=260642902_143262884_4_0_0&matching_block_id=260642902_143262884_4_0_0&sr_pri_blocks=260642902_143262884_4_0_0__167400&from=searchresults#hotelTmpl",
     "title": "Apartements Bartoli",
     "price": "US$1.823"
+  },
+  "Apartments Milka": {
+    "url": "https://www.booking.com/hotel/hr/apartmani-milka.de.html?label=gen173nr-1FCAEoggI46AdIB1gEaDuIAQGYAQe4AQfIAQzYAQHoAQH4AQKIAgGoAgO4ArLCnaAGwAIB0gIkZjk0MzE1NzYtNjJiYS00OTcyLTgwMWEtOGU1NTgyOGQ1OWE52AIF4AIB&aid=304142&ucfs=1&arphpl=1&checkin=2023-06-03&checkout=2023-06-12&dest_id=-94604&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=4&hapos=4&sr_order=popularity&nflt=distance%3D1000%3Boos%3D1%3Breview_score%3D80&srpvid=632d3c8fd936011f&srepoch=1679819807&all_sr_blocks=39308701_363688572_0_0_0&highlighted_blocks=39308701_363688572_0_0_0&matching_block_id=39308701_363688572_0_0_0&sr_pri_blocks=39308701_363688572_0_0_0__67545&from=searchresults#hotelTmpl",
+    "title": "Apartments Milka",
+    "price": "US$727"
   }
 }
