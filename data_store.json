@@ -383,5 +383,10 @@
     "url": "https://www.booking.com/hotel/hr/apartment-house-flores-bregovita.de.html?label=gen173nr-1FCAEoggI46AdIB1gEaDuIAQGYAQe4AQfIAQzYAQHoAQH4AQKIAgGoAgO4ArLCnaAGwAIB0gIkZjk0MzE1NzYtNjJiYS00OTcyLTgwMWEtOGU1NTgyOGQ1OWE52AIF4AIB&aid=304142&ucfs=1&arphpl=1&checkin=2023-06-03&checkout=2023-06-12&dest_id=-94604&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=18&hapos=18&sr_order=popularity&nflt=distance%3D1000%3Boos%3D1%3Breview_score%3D80&srpvid=fac17bd63844041c&srepoch=1679852206&all_sr_blocks=112731201_352628935_0_0_0&highlighted_blocks=112731201_352628935_0_0_0&matching_block_id=112731201_352628935_0_0_0&sr_pri_blocks=112731201_352628935_0_0_0__230000&from=searchresults#hotelTmpl",
     "title": "Deluxe Apartment Casa Flores with Sea View & Terrace",
     "price": "US$2.475"
+  },
+  "Casa Bellavista Sea View": {
+    "url": "https://www.booking.com/hotel/hr/casa-bellavista-rovinj.de.html?label=gen173nr-1FCAEoggI46AdIB1gEaDuIAQGYAQe4AQfIAQzYAQHoAQH4AQKIAgGoAgO4ArLCnaAGwAIB0gIkZjk0MzE1NzYtNjJiYS00OTcyLTgwMWEtOGU1NTgyOGQ1OWE52AIF4AIB&aid=304142&ucfs=1&arphpl=1&checkin=2023-06-03&checkout=2023-06-12&dest_id=-94604&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=20&hapos=20&sr_order=popularity&nflt=distance%3D1000%3Boos%3D1%3Breview_score%3D80&srpvid=a07151a7c0470330&srepoch=1679917008&all_sr_blocks=852752501_370410584_3_0_0&highlighted_blocks=852752501_370410584_3_0_0&matching_block_id=852752501_370410584_3_0_0&sr_pri_blocks=852752501_370410584_3_0_0__81630&from=searchresults#hotelTmpl",
+    "title": "Casa Bellavista Sea View",
+    "price": "US$879"
   }
 }
