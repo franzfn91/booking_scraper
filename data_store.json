@@ -403,5 +403,20 @@
     "url": "https://www.booking.com/hotel/hr/three-bedroom-apartment-neily.de.html?label=gen173nr-1FCAEoggI46AdIB1gEaDuIAQGYAQe4AQfIAQzYAQHoAQH4AQKIAgGoAgO4ArLCnaAGwAIB0gIkZjk0MzE1NzYtNjJiYS00OTcyLTgwMWEtOGU1NTgyOGQ1OWE52AIF4AIB&aid=304142&ucfs=1&arphpl=1&checkin=2023-06-03&checkout=2023-06-12&dest_id=-94604&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=22&hapos=22&sr_order=popularity&nflt=distance%3D1000%3Boos%3D1%3Breview_score%3D80&srpvid=58412775630f00b3&srepoch=1680068204&all_sr_blocks=100866101_295770790_0_0_0&highlighted_blocks=100866101_295770790_0_0_0&matching_block_id=100866101_295770790_0_0_0&sr_pri_blocks=100866101_295770790_0_0_0__180000&from=searchresults#hotelTmpl",
     "title": "Apartment Neily",
     "price": "US$1.950"
+  },
+  "Carera Delux Rovinj": {
+    "url": "https://www.booking.com/hotel/hr/carera-deluxe-studio-rovinj.de.html?label=gen173nr-1FCAEoggI46AdIB1gEaDuIAQGYAQe4AQfIAQzYAQHoAQH4AQKIAgGoAgO4ArLCnaAGwAIB0gIkZjk0MzE1NzYtNjJiYS00OTcyLTgwMWEtOGU1NTgyOGQ1OWE52AIF4AIB&aid=304142&ucfs=1&arphpl=1&checkin=2023-06-03&checkout=2023-06-12&dest_id=-94604&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=14&hapos=14&sr_order=popularity&nflt=distance%3D1000%3Boos%3D1%3Breview_score%3D80&srpvid=2f94358aa4f90292&srepoch=1680075414&all_sr_blocks=190014702_343225921_2_0_0&highlighted_blocks=190014702_343225921_2_0_0&matching_block_id=190014702_343225921_2_0_0&sr_pri_blocks=190014702_343225921_2_0_0__137000&from=searchresults#hotelTmpl",
+    "title": "Carera Delux Rovinj",
+    "price": "US$1.484"
+  },
+  "Apartment Caterina": {
+    "url": "https://www.booking.com/hotel/hr/apartment-caterina-rovinj.de.html?label=gen173nr-1FCAEoggI46AdIB1gEaDuIAQGYAQe4AQfIAQzYAQHoAQH4AQKIAgGoAgO4ArLCnaAGwAIB0gIkZjk0MzE1NzYtNjJiYS00OTcyLTgwMWEtOGU1NTgyOGQ1OWE52AIF4AIB&aid=304142&ucfs=1&arphpl=1&checkin=2023-06-03&checkout=2023-06-12&dest_id=-94604&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=16&hapos=16&sr_order=popularity&nflt=distance%3D1000%3Boos%3D1%3Breview_score%3D80&srpvid=2f94358aa4f90292&srepoch=1680075414&all_sr_blocks=518427801_346986310_0_0_0&highlighted_blocks=518427801_346986310_0_0_0&matching_block_id=518427801_346986310_0_0_0&sr_pri_blocks=518427801_346986310_0_0_0__178500&from=searchresults#hotelTmpl",
+    "title": "Apartment Caterina",
+    "price": "US$1.934"
+  },
+  "NARs": {
+    "url": "https://www.booking.com/hotel/hr/nar-i.de.html?label=gen173nr-1FCAEoggI46AdIB1gEaDuIAQGYAQe4AQfIAQzYAQHoAQH4AQKIAgGoAgO4ArLCnaAGwAIB0gIkZjk0MzE1NzYtNjJiYS00OTcyLTgwMWEtOGU1NTgyOGQ1OWE52AIF4AIB&aid=304142&ucfs=1&arphpl=1&checkin=2023-06-03&checkout=2023-06-12&dest_id=-94604&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=21&hapos=21&sr_order=popularity&nflt=distance%3D1000%3Boos%3D1%3Breview_score%3D80&srpvid=2f94358aa4f90292&srepoch=1680075414&all_sr_blocks=534061502_332661840_0_0_0&highlighted_blocks=534061502_332661840_0_0_0&matching_block_id=534061502_332661840_0_0_0&sr_pri_blocks=534061502_332661840_0_0_0__130000&from=searchresults#hotelTmpl",
+    "title": "NARs",
+    "price": "US$1.408"
   }
 }
