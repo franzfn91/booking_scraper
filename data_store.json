@@ -418,5 +418,10 @@
     "url": "https://www.booking.com/hotel/hr/nar-i.de.html?label=gen173nr-1FCAEoggI46AdIB1gEaDuIAQGYAQe4AQfIAQzYAQHoAQH4AQKIAgGoAgO4ArLCnaAGwAIB0gIkZjk0MzE1NzYtNjJiYS00OTcyLTgwMWEtOGU1NTgyOGQ1OWE52AIF4AIB&aid=304142&ucfs=1&arphpl=1&checkin=2023-06-03&checkout=2023-06-12&dest_id=-94604&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=21&hapos=21&sr_order=popularity&nflt=distance%3D1000%3Boos%3D1%3Breview_score%3D80&srpvid=2f94358aa4f90292&srepoch=1680075414&all_sr_blocks=534061502_332661840_0_0_0&highlighted_blocks=534061502_332661840_0_0_0&matching_block_id=534061502_332661840_0_0_0&sr_pri_blocks=534061502_332661840_0_0_0__130000&from=searchresults#hotelTmpl",
     "title": "NARs",
     "price": "US$1.408"
+  },
+  "Studio Apartment Sunce": {
+    "url": "https://www.booking.com/hotel/hr/studio-apartment-sunce.de.html?label=gen173nr-1FCAEoggI46AdIB1gEaDuIAQGYAQe4AQfIAQzYAQHoAQH4AQKIAgGoAgO4ArLCnaAGwAIB0gIkZjk0MzE1NzYtNjJiYS00OTcyLTgwMWEtOGU1NTgyOGQ1OWE52AIF4AIB&aid=304142&ucfs=1&arphpl=1&checkin=2023-06-03&checkout=2023-06-12&dest_id=-94604&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&nflt=distance%3D1000%3Boos%3D1%3Breview_score%3D80&srpvid=1e497aeb60380052&srepoch=1680110936&all_sr_blocks=361720602_268774770_2_0_0&highlighted_blocks=361720602_268774770_2_0_0&matching_block_id=361720602_268774770_2_0_0&sr_pri_blocks=361720602_268774770_2_0_0__151400&from=searchresults#hotelTmpl",
+    "title": "Studio Apartment Sunce",
+    "price": "US$1.640"
   }
 }
