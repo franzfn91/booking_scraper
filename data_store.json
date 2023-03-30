@@ -433,5 +433,10 @@
     "url": "https://www.booking.com/hotel/hr/old-town-garden-studio.de.html?label=gen173nr-1FCAEoggI46AdIB1gEaDuIAQGYAQe4AQfIAQzYAQHoAQH4AQKIAgGoAgO4ArLCnaAGwAIB0gIkZjk0MzE1NzYtNjJiYS00OTcyLTgwMWEtOGU1NTgyOGQ1OWE52AIF4AIB&aid=304142&ucfs=1&arphpl=1&checkin=2023-06-03&checkout=2023-06-12&dest_id=-94604&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=12&hapos=12&sr_order=popularity&nflt=distance%3D1000%3Boos%3D1%3Breview_score%3D80&srpvid=bc4590fa576500eb&srepoch=1680208631&all_sr_blocks=847260801_353866725_2_0_0&highlighted_blocks=847260801_353866725_2_0_0&matching_block_id=847260801_353866725_2_0_0&sr_pri_blocks=847260801_353866725_2_0_0__103400&from_sustainable_property_sr=1&from=searchresults#hotelTmpl",
     "title": "Old Town Garden Studio",
     "price": "US$1.120"
+  },
+  "Villa Dolores": {
+    "url": "https://www.booking.com/hotel/hr/villa-dolores.de.html?label=gen173nr-1FCAEoggI46AdIB1gEaDuIAQGYAQe4AQfIAQzYAQHoAQH4AQKIAgGoAgO4ArLCnaAGwAIB0gIkZjk0MzE1NzYtNjJiYS00OTcyLTgwMWEtOGU1NTgyOGQ1OWE52AIF4AIB&aid=304142&ucfs=1&arphpl=1&checkin=2023-06-03&checkout=2023-06-12&dest_id=-94604&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=11&hapos=11&sr_order=popularity&nflt=distance%3D1000%3Boos%3D1%3Breview_score%3D80&srpvid=1680a60f64a400e6&srepoch=1680219424&all_sr_blocks=174089203_344667925_2_0_0&highlighted_blocks=174089203_344667925_2_0_0&matching_block_id=174089203_344667925_2_0_0&sr_pri_blocks=174089203_344667925_2_0_0__85500&from_sustainable_property_sr=1&from=searchresults#hotelTmpl",
+    "title": "Villa Dolores",
+    "price": "US$926"
   }
 }
