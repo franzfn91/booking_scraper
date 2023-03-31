@@ -443,5 +443,15 @@
     "url": "https://www.booking.com/hotel/hr/hidden-paradise-rovinj-rovinj.de.html?label=gen173nr-1FCAEoggI46AdIB1gEaDuIAQGYAQe4AQfIAQzYAQHoAQH4AQKIAgGoAgO4ArLCnaAGwAIB0gIkZjk0MzE1NzYtNjJiYS00OTcyLTgwMWEtOGU1NTgyOGQ1OWE52AIF4AIB&aid=304142&ucfs=1&arphpl=1&checkin=2023-06-03&checkout=2023-06-12&dest_id=-94604&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=12&hapos=12&sr_order=popularity&nflt=distance%3D1000%3Boos%3D1%3Breview_score%3D80&srpvid=18673ccc122702d7&srepoch=1680251929&all_sr_blocks=751879704_361007451_0_0_0&highlighted_blocks=751879704_361007451_0_0_0&matching_block_id=751879704_361007451_0_0_0&sr_pri_blocks=751879704_361007451_0_0_0__97325&from=searchresults#hotelTmpl",
     "title": "Apartments Hidden paradise Rovinj",
     "price": "US$1.062"
+  },
+  "IntimES Room Rovinj": {
+    "url": "https://www.booking.com/hotel/hr/intimes-room-rovinj.de.html?label=gen173nr-1FCAEoggI46AdIB1gEaDuIAQGYAQe4AQfIAQzYAQHoAQH4AQKIAgGoAgO4ArLCnaAGwAIB0gIkZjk0MzE1NzYtNjJiYS00OTcyLTgwMWEtOGU1NTgyOGQ1OWE52AIF4AIB&aid=304142&ucfs=1&arphpl=1&checkin=2023-06-03&checkout=2023-06-12&dest_id=-94604&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=16&hapos=16&sr_order=popularity&nflt=distance%3D1000%3Boos%3D1%3Breview_score%3D80&srpvid=3cdf51a5485e019e&srepoch=1680262604&all_sr_blocks=742554601_344957577_2_0_0&highlighted_blocks=742554601_344957577_2_0_0&matching_block_id=742554601_344957577_2_0_0&sr_pri_blocks=742554601_344957577_2_0_0__69500&from=searchresults#hotelTmpl",
+    "title": "IntimES Room Rovinj",
+    "price": "US$758"
+  },
+  "Bunari Studio Apartment": {
+    "url": "https://www.booking.com/hotel/hr/bunari-studio-apartment.de.html?label=gen173nr-1FCAEoggI46AdIB1gEaDuIAQGYAQe4AQfIAQzYAQHoAQH4AQKIAgGoAgO4ArLCnaAGwAIB0gIkZjk0MzE1NzYtNjJiYS00OTcyLTgwMWEtOGU1NTgyOGQ1OWE52AIF4AIB&aid=304142&ucfs=1&arphpl=1&checkin=2023-06-03&checkout=2023-06-12&dest_id=-94604&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=23&hapos=23&sr_order=popularity&nflt=distance%3D1000%3Boos%3D1%3Breview_score%3D80&srpvid=3cdf51a5485e019e&srepoch=1680262604&all_sr_blocks=654422401_267852705_2_0_0&highlighted_blocks=654422401_267852705_2_0_0&matching_block_id=654422401_267852705_2_0_0&sr_pri_blocks=654422401_267852705_2_0_0__58500&from=searchresults#hotelTmpl",
+    "title": "Bunari Studio Apartment",
+    "price": "US$638"
   }
 }
