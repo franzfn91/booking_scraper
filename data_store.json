@@ -453,5 +453,10 @@
     "url": "https://www.booking.com/hotel/hr/bunari-studio-apartment.de.html?label=gen173nr-1FCAEoggI46AdIB1gEaDuIAQGYAQe4AQfIAQzYAQHoAQH4AQKIAgGoAgO4ArLCnaAGwAIB0gIkZjk0MzE1NzYtNjJiYS00OTcyLTgwMWEtOGU1NTgyOGQ1OWE52AIF4AIB&aid=304142&ucfs=1&arphpl=1&checkin=2023-06-03&checkout=2023-06-12&dest_id=-94604&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=23&hapos=23&sr_order=popularity&nflt=distance%3D1000%3Boos%3D1%3Breview_score%3D80&srpvid=3cdf51a5485e019e&srepoch=1680262604&all_sr_blocks=654422401_267852705_2_0_0&highlighted_blocks=654422401_267852705_2_0_0&matching_block_id=654422401_267852705_2_0_0&sr_pri_blocks=654422401_267852705_2_0_0__58500&from=searchresults#hotelTmpl",
     "title": "Bunari Studio Apartment",
     "price": "US$638"
+  },
+  "Apartments Milkana": {
+    "url": "https://www.booking.com/hotel/hr/apartments-milkana.de.html?label=gen173nr-1FCAEoggI46AdIB1gEaDuIAQGYAQe4AQfIAQzYAQHoAQH4AQKIAgGoAgO4ArLCnaAGwAIB0gIkZjk0MzE1NzYtNjJiYS00OTcyLTgwMWEtOGU1NTgyOGQ1OWE52AIF4AIB&aid=304142&ucfs=1&arphpl=1&checkin=2023-06-03&checkout=2023-06-12&dest_id=-94604&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=9&hapos=9&sr_order=popularity&nflt=distance%3D1000%3Boos%3D1%3Breview_score%3D80&srpvid=b7cd6dc8852c039f&srepoch=1680363410&all_sr_blocks=39566502_368440889_0_0_0&highlighted_blocks=39566502_368440889_0_0_0&matching_block_id=39566502_368440889_0_0_0&sr_pri_blocks=39566502_368440889_0_0_0__118200&from=searchresults#hotelTmpl",
+    "title": "Apartments Milkana",
+    "price": "US$1.284"
   }
 }
