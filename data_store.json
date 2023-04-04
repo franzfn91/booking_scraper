@@ -488,5 +488,10 @@
     "url": "https://www.booking.com/hotel/hr/apartman-fuma-rovinj.de.html?label=gen173nr-1FCAEoggI46AdIB1gEaDuIAQGYAQe4AQfIAQzYAQHoAQH4AQKIAgGoAgO4ArLCnaAGwAIB0gIkZjk0MzE1NzYtNjJiYS00OTcyLTgwMWEtOGU1NTgyOGQ1OWE52AIF4AIB&aid=304142&ucfs=1&arphpl=1&checkin=2023-06-03&checkout=2023-06-12&dest_id=-94604&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=16&hapos=16&sr_order=popularity&nflt=distance%3D1000%3Boos%3D1%3Breview_score%3D80&srpvid=24bd3caafbd7007d&srepoch=1680597462&all_sr_blocks=651201601_298296100_2_0_0&highlighted_blocks=651201601_298296100_2_0_0&matching_block_id=651201601_298296100_2_0_0&sr_pri_blocks=651201601_298296100_2_0_0__149000&from=searchresults#hotelTmpl",
     "title": "Apartman Fuma",
     "price": "US$1.622"
+  },
+  "Lav": {
+    "url": "https://www.booking.com/hotel/hr/lav-rovinj.de.html?label=gen173nr-1FCAEoggI46AdIB1gEaDuIAQGYAQe4AQfIAQzYAQHoAQH4AQKIAgGoAgO4ArLCnaAGwAIB0gIkZjk0MzE1NzYtNjJiYS00OTcyLTgwMWEtOGU1NTgyOGQ1OWE52AIF4AIB&aid=304142&ucfs=1&arphpl=1&checkin=2023-06-03&checkout=2023-06-12&dest_id=-94604&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=20&hapos=20&sr_order=popularity&nflt=distance%3D1000%3Boos%3D1%3Breview_score%3D80&srpvid=32f666c4b8030446&srepoch=1680619018&all_sr_blocks=301701401_266028605_2_0_0&highlighted_blocks=301701401_266028605_2_0_0&matching_block_id=301701401_266028605_2_0_0&sr_pri_blocks=301701401_266028605_2_0_0__97754&from=searchresults#hotelTmpl",
+    "title": "Lav",
+    "price": "US$1.064"
   }
 }
