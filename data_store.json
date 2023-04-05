@@ -503,5 +503,10 @@
     "url": "https://www.booking.com/hotel/hr/casa-39-apartments.de.html?label=gen173nr-1FCAEoggI46AdIB1gEaDuIAQGYAQe4AQfIAQzYAQHoAQH4AQKIAgGoAgO4ArLCnaAGwAIB0gIkZjk0MzE1NzYtNjJiYS00OTcyLTgwMWEtOGU1NTgyOGQ1OWE52AIF4AIB&aid=304142&ucfs=1&arphpl=1&checkin=2023-06-03&checkout=2023-06-12&dest_id=-94604&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=14&hapos=14&sr_order=popularity&nflt=distance%3D1000%3Boos%3D1%3Breview_score%3D80&srpvid=28dc3cf31be300a7&srepoch=1680684008&all_sr_blocks=188118202_202297638_0_0_0&highlighted_blocks=188118202_202297638_0_0_0&matching_block_id=188118202_202297638_0_0_0&sr_pri_blocks=188118202_202297638_0_0_0__201780&from=searchresults#hotelTmpl",
     "title": "Casa 39 Apartments",
     "price": "US$2.213"
+  },
+  "Apartment Soho": {
+    "url": "https://www.booking.com/hotel/hr/apartment-soho.de.html?label=gen173nr-1FCAEoggI46AdIB1gEaDuIAQGYAQe4AQfIAQzYAQHoAQH4AQKIAgGoAgO4ArLCnaAGwAIB0gIkZjk0MzE1NzYtNjJiYS00OTcyLTgwMWEtOGU1NTgyOGQ1OWE52AIF4AIB&aid=304142&ucfs=1&arphpl=1&checkin=2023-06-03&checkout=2023-06-12&dest_id=-94604&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=22&hapos=22&sr_order=popularity&nflt=distance%3D1000%3Boos%3D1%3Breview_score%3D80&srpvid=50be7be133270223&srepoch=1680716229&all_sr_blocks=527136401_371023502_0_0_0&highlighted_blocks=527136401_371023502_0_0_0&matching_block_id=527136401_371023502_0_0_0&sr_pri_blocks=527136401_371023502_0_0_0__186250&from=searchresults#hotelTmpl",
+    "title": "Apartment Soho",
+    "price": "US$2.043"
   }
 }
