@@ -518,5 +518,15 @@
     "url": "https://www.booking.com/hotel/hr/three-bedroom-apartment-in-rovinj-ii.de.html?label=gen173nr-1FCAEoggI46AdIB1gEaDuIAQGYAQe4AQfIAQzYAQHoAQH4AQKIAgGoAgO4ArLCnaAGwAIB0gIkZjk0MzE1NzYtNjJiYS00OTcyLTgwMWEtOGU1NTgyOGQ1OWE52AIF4AIB&aid=304142&ucfs=1&arphpl=1&checkin=2023-06-03&checkout=2023-06-12&dest_id=-94604&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=24&hapos=24&sr_order=popularity&nflt=distance%3D1000%3Boos%3D1%3Breview_score%3D80&srpvid=d0941969a55b007d&srepoch=1680752212&all_sr_blocks=134597601_352698026_2_0_0&highlighted_blocks=134597601_352698026_2_0_0&matching_block_id=134597601_352698026_2_0_0&sr_pri_blocks=134597601_352698026_2_0_0__110890&from=searchresults#hotelTmpl",
     "title": "Apartment in Rovinj/Istrien 11479",
     "price": "US$1.216"
+  },
+  "Marcus home": {
+    "url": "https://www.booking.com/hotel/hr/marcus-home.de.html?label=gen173nr-1FCAEoggI46AdIB1gEaDuIAQGYAQe4AQfIAQzYAQHoAQH4AQKIAgGoAgO4ArLCnaAGwAIB0gIkZjk0MzE1NzYtNjJiYS00OTcyLTgwMWEtOGU1NTgyOGQ1OWE52AIF4AIB&aid=304142&ucfs=1&arphpl=1&checkin=2023-06-03&checkout=2023-06-12&dest_id=-94604&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=20&hapos=20&sr_order=popularity&nflt=distance%3D1000%3Boos%3D1%3Breview_score%3D80&srpvid=52dc35847b3503bd&srepoch=1680766603&all_sr_blocks=726918401_310851385_4_0_0&highlighted_blocks=726918401_310851385_4_0_0&matching_block_id=726918401_310851385_4_0_0&sr_pri_blocks=726918401_310851385_4_0_0__122000&from=searchresults#hotelTmpl",
+    "title": "Marcus home",
+    "price": "US$1.331"
+  },
+  "Apartment Istra": {
+    "url": "https://www.booking.com/hotel/hr/apartment-istra-rovinj.de.html?label=gen173nr-1FCAEoggI46AdIB1gEaDuIAQGYAQe4AQfIAQzYAQHoAQH4AQKIAgGoAgO4ArLCnaAGwAIB0gIkZjk0MzE1NzYtNjJiYS00OTcyLTgwMWEtOGU1NTgyOGQ1OWE52AIF4AIB&aid=304142&ucfs=1&arphpl=1&checkin=2023-06-03&checkout=2023-06-12&dest_id=-94604&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=23&hapos=23&sr_order=popularity&nflt=distance%3D1000%3Boos%3D1%3Breview_score%3D80&srpvid=52dc35847b3503bd&srepoch=1680766603&all_sr_blocks=123864301_355922434_2_0_0&highlighted_blocks=123864301_355922434_2_0_0&matching_block_id=123864301_355922434_2_0_0&sr_pri_blocks=123864301_355922434_2_0_0__156000&from=searchresults#hotelTmpl",
+    "title": "Apartment Istra",
+    "price": "US$1.702"
   }
 }
