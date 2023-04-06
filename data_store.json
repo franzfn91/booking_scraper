@@ -533,5 +533,10 @@
     "url": "https://www.booking.com/hotel/hr/carducci-16.de.html?label=gen173nr-1FCAEoggI46AdIB1gEaDuIAQGYAQe4AQfIAQzYAQHoAQH4AQKIAgGoAgO4ArLCnaAGwAIB0gIkZjk0MzE1NzYtNjJiYS00OTcyLTgwMWEtOGU1NTgyOGQ1OWE52AIF4AIB&aid=304142&ucfs=1&arphpl=1&checkin=2023-06-03&checkout=2023-06-12&dest_id=-94604&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=25&hapos=25&sr_order=popularity&nflt=distance%3D1000%3Boos%3D1%3Breview_score%3D80&srpvid=30623ca5ccfc0194&srepoch=1680770252&all_sr_blocks=822490602_346728723_5_0_0&highlighted_blocks=822490602_346728723_5_0_0&matching_block_id=822490602_346728723_5_0_0&sr_pri_blocks=822490602_346728723_5_0_0__117024&from=searchresults#hotelTmpl",
     "title": "Carducci 16",
     "price": "US$1.277"
+  },
+  "Royal View": {
+    "url": "https://www.booking.com/hotel/hr/royal-view-rovinj.de.html?label=gen173nr-1FCAEoggI46AdIB1gEaDuIAQGYAQe4AQfIAQzYAQHoAQH4AQKIAgGoAgO4ArLCnaAGwAIB0gIkZjk0MzE1NzYtNjJiYS00OTcyLTgwMWEtOGU1NTgyOGQ1OWE52AIF4AIB&aid=304142&ucfs=1&arphpl=1&checkin=2023-06-03&checkout=2023-06-12&dest_id=-94604&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=11&hapos=11&sr_order=popularity&nflt=distance%3D1000%3Boos%3D1%3Breview_score%3D80&srpvid=62c07543afc5002b&srepoch=1680799240&all_sr_blocks=373652002_261958570_2_0_0&highlighted_blocks=373652002_261958570_2_0_0&matching_block_id=373652002_261958570_2_0_0&sr_pri_blocks=373652002_261958570_2_0_0__360000&from=searchresults#hotelTmpl",
+    "title": "Royal View",
+    "price": "US$3.928"
   }
 }
