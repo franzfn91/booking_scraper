@@ -543,5 +543,10 @@
     "url": "https://www.booking.com/hotel/hr/peter-apartment.de.html?label=gen173nr-1FCAEoggI46AdIB1gEaDuIAQGYAQe4AQfIAQzYAQHoAQH4AQKIAgGoAgO4ArLCnaAGwAIB0gIkZjk0MzE1NzYtNjJiYS00OTcyLTgwMWEtOGU1NTgyOGQ1OWE52AIF4AIB&aid=304142&ucfs=1&arphpl=1&checkin=2023-06-03&checkout=2023-06-12&dest_id=-94604&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&nflt=distance%3D1000%3Boos%3D1%3Breview_score%3D80&srpvid=78037bde5a6d01a1&srepoch=1680802621&all_sr_blocks=751048002_332407814_3_0_0&highlighted_blocks=751048002_332407814_3_0_0&matching_block_id=751048002_332407814_3_0_0&sr_pri_blocks=751048002_332407814_3_0_0__80100&from=searchresults#hotelTmpl",
     "title": "Peter Apartment",
     "price": "US$874"
+  },
+  "Apartments Casa \u0110eki\u0107": {
+    "url": "https://www.booking.com/hotel/hr/casa-dekic.de.html?label=gen173nr-1FCAEoggI46AdIB1gEaDuIAQGYAQe4AQfIAQzYAQHoAQH4AQKIAgGoAgO4ArLCnaAGwAIB0gIkZjk0MzE1NzYtNjJiYS00OTcyLTgwMWEtOGU1NTgyOGQ1OWE52AIF4AIB&aid=304142&ucfs=1&arphpl=1&checkin=2023-06-03&checkout=2023-06-12&dest_id=-94604&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=17&hapos=17&sr_order=popularity&nflt=distance%3D1000%3Boos%3D1%3Breview_score%3D80&srpvid=690597f9830e001f&srepoch=1680817012&all_sr_blocks=111217702_190540478_2_0_0&highlighted_blocks=111217702_190540478_2_0_0&matching_block_id=111217702_190540478_2_0_0&sr_pri_blocks=111217702_190540478_2_0_0__197100&from=searchresults#hotelTmpl",
+    "title": "Apartments Casa \u0110eki\u0107",
+    "price": "US$2.151"
   }
 }
