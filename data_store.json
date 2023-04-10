@@ -563,5 +563,10 @@
     "url": "https://www.booking.com/hotel/hr/residence-dream.de.html?label=gen173nr-1FCAEoggI46AdIB1gEaDuIAQGYAQe4AQfIAQzYAQHoAQH4AQKIAgGoAgO4ArLCnaAGwAIB0gIkZjk0MzE1NzYtNjJiYS00OTcyLTgwMWEtOGU1NTgyOGQ1OWE52AIF4AIB&aid=304142&ucfs=1&arphpl=1&checkin=2023-06-03&checkout=2023-06-12&dest_id=-94604&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=10&hapos=10&sr_order=popularity&nflt=distance%3D1000%3Boos%3D1%3Breview_score%3D80&srpvid=c6dc2ea70c0100af&srepoch=1681108689&all_sr_blocks=34223501_93438081_0_2_0&highlighted_blocks=34223501_93438081_0_2_0&matching_block_id=34223501_93438081_0_2_0&sr_pri_blocks=34223501_93438081_0_2_0__132480&from=searchresults#hotelTmpl",
     "title": "Residence Dream",
     "price": "US$1.447"
+  },
+  "Stara hi\u017ea Rovinj": {
+    "url": "https://www.booking.com/hotel/hr/stara-hiza-rovinj.de.html?label=gen173nr-1FCAEoggI46AdIB1gEaDuIAQGYAQe4AQfIAQzYAQHoAQH4AQKIAgGoAgO4ArLCnaAGwAIB0gIkZjk0MzE1NzYtNjJiYS00OTcyLTgwMWEtOGU1NTgyOGQ1OWE52AIF4AIB&aid=304142&ucfs=1&arphpl=1&checkin=2023-06-03&checkout=2023-06-12&dest_id=-94604&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=20&hapos=20&sr_order=popularity&nflt=distance%3D1000%3Boos%3D1%3Breview_score%3D80&srpvid=bfbc89e7b93b02b1&srepoch=1681155408&all_sr_blocks=884260001_357882266_4_0_0&highlighted_blocks=884260001_357882266_4_0_0&matching_block_id=884260001_357882266_4_0_0&sr_pri_blocks=884260001_357882266_4_0_0__162000&tpi_r=2&from=searchresults#hotelTmpl",
+    "title": "Stara hi\u017ea Rovinj",
+    "price": "US$1.770"
   }
 }
