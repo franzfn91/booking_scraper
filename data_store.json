@@ -583,5 +583,15 @@
     "url": "https://www.booking.com/hotel/hr/studio-bella.de.html?label=gen173nr-1FCAEoggI46AdIB1gEaDuIAQGYAQe4AQfIAQzYAQHoAQH4AQKIAgGoAgO4ArLCnaAGwAIB0gIkZjk0MzE1NzYtNjJiYS00OTcyLTgwMWEtOGU1NTgyOGQ1OWE52AIF4AIB&aid=304142&ucfs=1&arphpl=1&checkin=2023-06-03&checkout=2023-06-12&dest_id=-94604&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=12&hapos=12&sr_order=popularity&nflt=distance%3D1000%3Boos%3D1%3Breview_score%3D80&srpvid=80cb51aa59ed0050&srepoch=1681299414&all_sr_blocks=110139401_275969051_2_0_0&highlighted_blocks=110139401_275969051_2_0_0&matching_block_id=110139401_275969051_2_0_0&sr_pri_blocks=110139401_275969051_2_0_0__95000&from_sustainable_property_sr=1&from=searchresults#hotelTmpl",
     "title": "Studio Bella",
     "price": "US$1.037"
+  },
+  "Studios Tommy": {
+    "url": "https://www.booking.com/hotel/hr/studio-tomy.de.html?label=gen173nr-1FCAEoggI46AdIB1gEaDuIAQGYAQe4AQfIAQzYAQHoAQH4AQKIAgGoAgO4ArLCnaAGwAIB0gIkZjk0MzE1NzYtNjJiYS00OTcyLTgwMWEtOGU1NTgyOGQ1OWE52AIF4AIB&aid=304142&ucfs=1&arphpl=1&checkin=2023-06-03&checkout=2023-06-12&dest_id=-94604&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=7&hapos=7&sr_order=popularity&nflt=distance%3D1000%3Boos%3D1%3Breview_score%3D80&srpvid=e8ae6dcc81a302b9&srepoch=1681313818&all_sr_blocks=103773302_351318429_2_0_0&highlighted_blocks=103773302_351318429_2_0_0&matching_block_id=103773302_351318429_2_0_0&sr_pri_blocks=103773302_351318429_2_0_0__82800&from=searchresults#hotelTmpl",
+    "title": "Studios Tommy",
+    "price": "US$904"
+  },
+  "Apartment and Studio CA\u2019 3 VIE": {
+    "url": "https://www.booking.com/hotel/hr/apartment-and-studio-ca-3-vie.de.html?label=gen173nr-1FCAEoggI46AdIB1gEaDuIAQGYAQe4AQfIAQzYAQHoAQH4AQKIAgGoAgO4ArLCnaAGwAIB0gIkZjk0MzE1NzYtNjJiYS00OTcyLTgwMWEtOGU1NTgyOGQ1OWE52AIF4AIB&aid=304142&ucfs=1&arphpl=1&checkin=2023-06-03&checkout=2023-06-12&dest_id=-94604&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=12&hapos=12&sr_order=popularity&nflt=distance%3D1000%3Boos%3D1%3Breview_score%3D80&srpvid=e8ae6dcc81a302b9&srepoch=1681313818&all_sr_blocks=378304302_253245062_2_0_0&highlighted_blocks=378304302_253245062_2_0_0&matching_block_id=378304302_253245062_2_0_0&sr_pri_blocks=378304302_253245062_2_0_0__94802&from=searchresults#hotelTmpl",
+    "title": "Apartment and Studio CA\u2019 3 VIE",
+    "price": "US$1.035"
   }
 }
