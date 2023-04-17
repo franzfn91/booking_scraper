@@ -623,5 +623,10 @@
     "url": "https://www.booking.com/hotel/hr/aria-room.de.html?label=gen173nr-1FCAEoggI46AdIB1gEaDuIAQGYAQe4AQfIAQzYAQHoAQH4AQKIAgGoAgO4ArLCnaAGwAIB0gIkZjk0MzE1NzYtNjJiYS00OTcyLTgwMWEtOGU1NTgyOGQ1OWE52AIF4AIB&aid=304142&ucfs=1&arphpl=1&checkin=2023-06-03&checkout=2023-06-12&dest_id=-94604&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=12&hapos=12&sr_order=popularity&nflt=distance%3D1000%3Boos%3D1%3Breview_score%3D80&srpvid=b6304aa7e04b0047&srepoch=1681727824&all_sr_blocks=190002501_352821111_0_0_0&highlighted_blocks=190002501_352821111_0_0_0&matching_block_id=190002501_352821111_0_0_0&sr_pri_blocks=190002501_352821111_0_0_0__88320&from=searchresults#hotelTmpl",
     "title": "Aria Room",
     "price": "US$972"
+  },
+  "Apartment Constantini": {
+    "url": "https://www.booking.com/hotel/hr/apartment-constantini.de.html?label=gen173nr-1FCAEoggI46AdIB1gEaDuIAQGYAQe4AQfIAQzYAQHoAQH4AQKIAgGoAgO4ArLCnaAGwAIB0gIkZjk0MzE1NzYtNjJiYS00OTcyLTgwMWEtOGU1NTgyOGQ1OWE52AIF4AIB&aid=304142&ucfs=1&arphpl=1&checkin=2023-06-03&checkout=2023-06-12&dest_id=-94604&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=4&hapos=4&sr_order=popularity&nflt=distance%3D1000%3Boos%3D1%3Breview_score%3D80&srpvid=48665aa46dbd02e9&srepoch=1681736010&all_sr_blocks=141247001_354398954_0_0_0&highlighted_blocks=141247001_354398954_0_0_0&matching_block_id=141247001_354398954_0_0_0&sr_pri_blocks=141247001_354398954_0_0_0__112000&from=searchresults#hotelTmpl",
+    "title": "Apartment Constantini",
+    "price": "US$1.233"
   }
 }
