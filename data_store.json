@@ -633,5 +633,10 @@
     "url": "https://www.booking.com/hotel/hr/apartment-vedrana-rovinj.de.html?label=gen173nr-1FCAEoggI46AdIB1gEaDuIAQGYAQe4AQfIAQzYAQHoAQH4AQKIAgGoAgO4ArLCnaAGwAIB0gIkZjk0MzE1NzYtNjJiYS00OTcyLTgwMWEtOGU1NTgyOGQ1OWE52AIF4AIB&aid=304142&ucfs=1&arphpl=1&checkin=2023-06-03&checkout=2023-06-12&dest_id=-94604&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=22&hapos=22&sr_order=popularity&nflt=distance%3D1000%3Boos%3D1%3Breview_score%3D80&srpvid=661c66be63ed00ea&srepoch=1681742206&all_sr_blocks=659642001_351656494_4_0_0&highlighted_blocks=659642001_351656494_4_0_0&matching_block_id=659642001_351656494_4_0_0&sr_pri_blocks=659642001_351656494_4_0_0__216000&from=searchresults#hotelTmpl",
     "title": "Apartment Vedrana",
     "price": "US$2.378"
+  },
+  "Residence La Carera by Porta Antica": {
+    "url": "https://www.booking.com/hotel/hr/residence-la-carera.de.html?label=gen173nr-1FCAEoggI46AdIB1gEaDuIAQGYAQe4AQfIAQzYAQHoAQH4AQKIAgGoAgO4ArLCnaAGwAIB0gIkZjk0MzE1NzYtNjJiYS00OTcyLTgwMWEtOGU1NTgyOGQ1OWE52AIF4AIB&aid=304142&ucfs=1&arphpl=1&checkin=2023-06-03&checkout=2023-06-12&dest_id=-94604&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=7&hapos=7&sr_order=popularity&nflt=distance%3D1000%3Boos%3D1%3Breview_score%3D80&srpvid=2c842ea98861013d&srepoch=1681799891&all_sr_blocks=30024803_370223912_0_0_0&highlighted_blocks=30024803_370223912_0_0_0&matching_block_id=30024803_370223912_0_0_0&sr_pri_blocks=30024803_370223912_0_0_0__139380&from_sustainable_property_sr=1&from=searchresults#hotelTmpl",
+    "title": "Residence La Carera by Porta Antica",
+    "price": "US$1.521"
   }
 }
