@@ -643,5 +643,10 @@
     "url": "https://www.booking.com/hotel/hr/holiday-home-bo.de.html?label=gen173nr-1FCAEoggI46AdIB1gEaDuIAQGYAQe4AQfIAQzYAQHoAQH4AQKIAgGoAgO4ArLCnaAGwAIB0gIkZjk0MzE1NzYtNjJiYS00OTcyLTgwMWEtOGU1NTgyOGQ1OWE52AIF4AIB&aid=304142&ucfs=1&arphpl=1&checkin=2023-06-03&checkout=2023-06-12&dest_id=-94604&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=16&hapos=16&sr_order=popularity&nflt=distance%3D1000%3Boos%3D1%3Breview_score%3D80&srpvid=28d582e23f68082c&srepoch=1681843015&all_sr_blocks=185944101_348627014_4_0_0&highlighted_blocks=185944101_348627014_4_0_0&matching_block_id=185944101_348627014_4_0_0&sr_pri_blocks=185944101_348627014_4_0_0__231840&from=searchresults#hotelTmpl",
     "title": "Holiday Home Bo",
     "price": "US$2.531"
+  },
+  "Noanna Apartment": {
+    "url": "https://www.booking.com/hotel/hr/noanna-apartment.de.html?label=gen173nr-1FCAEoggI46AdIB1gEaDuIAQGYAQe4AQfIAQzYAQHoAQH4AQKIAgGoAgO4ArLCnaAGwAIB0gIkZjk0MzE1NzYtNjJiYS00OTcyLTgwMWEtOGU1NTgyOGQ1OWE52AIF4AIB&aid=304142&ucfs=1&arphpl=1&checkin=2023-06-03&checkout=2023-06-12&dest_id=-94604&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=6&hapos=6&sr_order=popularity&nflt=distance%3D1000%3Boos%3D1%3Breview_score%3D80&srpvid=50602eb70c2101ca&srepoch=1681886319&all_sr_blocks=381631202_271835883_2_0_0&highlighted_blocks=381631202_271835883_2_0_0&matching_block_id=381631202_271835883_2_0_0&sr_pri_blocks=381631202_271835883_2_0_0__112608&from=searchresults#hotelTmpl",
+    "title": "Noanna Apartment",
+    "price": "US$1.234"
   }
 }
