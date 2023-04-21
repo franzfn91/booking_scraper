@@ -683,5 +683,10 @@
     "url": "https://www.booking.com/hotel/hr/rovinj-rz.de.html?label=gen173nr-1FCAEoggI46AdIB1gEaDuIAQGYAQe4AQfIAQzYAQHoAQH4AQKIAgGoAgO4ArLCnaAGwAIB0gIkZjk0MzE1NzYtNjJiYS00OTcyLTgwMWEtOGU1NTgyOGQ1OWE52AIF4AIB&aid=304142&ucfs=1&arphpl=1&checkin=2023-06-03&checkout=2023-06-12&dest_id=-94604&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=8&hapos=8&sr_order=popularity&nflt=distance%3D1000%3Boos%3D1%3Breview_score%3D80&srpvid=8bf0753f83f00346&srepoch=1682095232&all_sr_blocks=358258101_265606400_4_0_0&highlighted_blocks=358258101_265606400_4_0_0&matching_block_id=358258101_265606400_4_0_0&sr_pri_blocks=358258101_265606400_4_0_0__127000&from=searchresults#hotelTmpl",
     "title": "Rovinj R.Z.",
     "price": "US$1.394"
+  },
+  "Villa Csipak": {
+    "url": "https://www.booking.com/hotel/hr/villa-csipak.de.html?label=gen173nr-1FCAEoggI46AdIB1gEaDuIAQGYAQe4AQfIAQzYAQHoAQH4AQKIAgGoAgO4ArLCnaAGwAIB0gIkZjk0MzE1NzYtNjJiYS00OTcyLTgwMWEtOGU1NTgyOGQ1OWE52AIF4AIB&aid=304142&ucfs=1&arphpl=1&checkin=2023-06-03&checkout=2023-06-12&dest_id=-94604&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=3&hapos=3&sr_order=popularity&nflt=distance%3D1000%3Boos%3D1%3Breview_score%3D80&srpvid=68a589e6df52007f&srepoch=1682105807&all_sr_blocks=663218904_354119394_2_0_0&highlighted_blocks=663218904_354119394_2_0_0&matching_block_id=663218904_354119394_2_0_0&sr_pri_blocks=663218904_354119394_2_0_0__85744&from=searchresults#hotelTmpl",
+    "title": "Villa Csipak",
+    "price": "US$941"
   }
 }
