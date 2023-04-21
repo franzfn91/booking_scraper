@@ -673,5 +673,10 @@
     "url": "https://www.booking.com/hotel/hr/studio-pina.de.html?label=gen173nr-1FCAEoggI46AdIB1gEaDuIAQGYAQe4AQfIAQzYAQHoAQH4AQKIAgGoAgO4ArLCnaAGwAIB0gIkZjk0MzE1NzYtNjJiYS00OTcyLTgwMWEtOGU1NTgyOGQ1OWE52AIF4AIB&aid=304142&ucfs=1&arphpl=1&checkin=2023-06-03&checkout=2023-06-12&dest_id=-94604&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=7&hapos=7&sr_order=popularity&nflt=distance%3D1000%3Boos%3D1%3Breview_score%3D80&srpvid=ce0697f663ca0224&srepoch=1682026606&all_sr_blocks=84123405_141509401_2_0_0&highlighted_blocks=84123405_141509401_2_0_0&matching_block_id=84123405_141509401_2_0_0&sr_pri_blocks=84123405_141509401_2_0_0__161025&from_sustainable_property_sr=1&from=searchresults#hotelTmpl",
     "title": "Guest House Pina",
     "price": "US$1.765"
+  },
+  "Apartments Giorgia": {
+    "url": "https://www.booking.com/hotel/hr/apartments-giorgia.de.html?label=gen173nr-1FCAEoggI46AdIB1gEaDuIAQGYAQe4AQfIAQzYAQHoAQH4AQKIAgGoAgO4ArLCnaAGwAIB0gIkZjk0MzE1NzYtNjJiYS00OTcyLTgwMWEtOGU1NTgyOGQ1OWE52AIF4AIB&aid=304142&ucfs=1&arphpl=1&checkin=2023-06-03&checkout=2023-06-12&dest_id=-94604&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=8&hapos=8&sr_order=popularity&nflt=distance%3D1000%3Boos%3D1%3Breview_score%3D80&srpvid=916b2eb00e3b01d3&srepoch=1682059107&all_sr_blocks=200377503_365909415_2_0_0&highlighted_blocks=200377503_365909415_2_0_0&matching_block_id=200377503_365909415_2_0_0&sr_pri_blocks=200377503_365909415_2_0_0__84992&from=searchresults#hotelTmpl",
+    "title": "Apartments Giorgia",
+    "price": "US$933"
   }
 }
