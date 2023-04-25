@@ -738,5 +738,15 @@
     "url": "https://www.booking.com/hotel/hr/nona-marija.de.html?label=gen173nr-1FCAEoggI46AdIB1gEaDuIAQGYAQe4AQfIAQzYAQHoAQH4AQKIAgGoAgO4ArLCnaAGwAIB0gIkZjk0MzE1NzYtNjJiYS00OTcyLTgwMWEtOGU1NTgyOGQ1OWE52AIF4AIB&aid=304142&ucfs=1&arphpl=1&checkin=2023-06-03&checkout=2023-06-12&dest_id=-94604&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=5&hapos=5&sr_order=popularity&nflt=distance%3D1000%3Boos%3D1%3Breview_score%3D80&srpvid=bdcb66c8a54401d3&srepoch=1682433426&all_sr_blocks=668298101_273497229_2_0_0&highlighted_blocks=668298101_273497229_2_0_0&matching_block_id=668298101_273497229_2_0_0&sr_pri_blocks=668298101_273497229_2_0_0__179100&from=searchresults#hotelTmpl",
     "title": "Nona Marija",
     "price": "US$1.975"
+  },
+  "Guest House Barocco": {
+    "url": "https://www.booking.com/hotel/hr/apartment-barocco.de.html?label=gen173nr-1FCAEoggI46AdIB1gEaDuIAQGYAQe4AQfIAQzYAQHoAQH4AQKIAgGoAgO4ArLCnaAGwAIB0gIkZjk0MzE1NzYtNjJiYS00OTcyLTgwMWEtOGU1NTgyOGQ1OWE52AIF4AIB&aid=304142&ucfs=1&arphpl=1&checkin=2023-06-03&checkout=2023-06-12&dest_id=-94604&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=11&hapos=11&sr_order=popularity&nflt=distance%3D1000%3Boos%3D1%3Breview_score%3D80&srpvid=4d2e89eb1590036a&srepoch=1682451415&all_sr_blocks=238690902_245113728_0_0_0&highlighted_blocks=238690902_245113728_0_0_0&matching_block_id=238690902_245113728_0_0_0&sr_pri_blocks=238690902_245113728_0_0_0__86524&from=searchresults#hotelTmpl",
+    "title": "Guest House Barocco",
+    "price": "US$954"
+  },
+  "One-bedroom apartment ALBIS with balcony and parking in Rovinj": {
+    "url": "https://www.booking.com/hotel/hr/one-bedroom-apartment-albis-with-balcony-and-parking-in-rovinj.de.html?label=gen173nr-1FCAEoggI46AdIB1gEaDuIAQGYAQe4AQfIAQzYAQHoAQH4AQKIAgGoAgO4ArLCnaAGwAIB0gIkZjk0MzE1NzYtNjJiYS00OTcyLTgwMWEtOGU1NTgyOGQ1OWE52AIF4AIB&aid=304142&ucfs=1&arphpl=1&checkin=2023-06-03&checkout=2023-06-12&dest_id=-94604&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=21&hapos=21&sr_order=popularity&nflt=distance%3D1000%3Boos%3D1%3Breview_score%3D80&srpvid=4d2e89eb1590036a&srepoch=1682451415&all_sr_blocks=757064402_372505337_2_0_0&highlighted_blocks=757064402_372505337_2_0_0&matching_block_id=757064402_372505337_2_0_0&sr_pri_blocks=757064402_372505337_2_0_0__107141&from=searchresults#hotelTmpl",
+    "title": "One-bedroom apartment ALBIS with balcony and parking in Rovinj",
+    "price": "US$1.182"
   }
 }
