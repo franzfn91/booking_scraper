@@ -728,5 +728,10 @@
     "url": "https://www.booking.com/hotel/hr/banko-apartments.de.html?label=gen173nr-1FCAEoggI46AdIB1gEaDuIAQGYAQe4AQfIAQzYAQHoAQH4AQKIAgGoAgO4ArLCnaAGwAIB0gIkZjk0MzE1NzYtNjJiYS00OTcyLTgwMWEtOGU1NTgyOGQ1OWE52AIF4AIB&aid=304142&ucfs=1&arphpl=1&checkin=2023-06-03&checkout=2023-06-12&dest_id=-94604&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=18&hapos=18&sr_order=popularity&nflt=distance%3D1000%3Boos%3D1%3Breview_score%3D80&srpvid=f6264a9fc4b400e1&srepoch=1682419009&all_sr_blocks=970151301_369867771_2_0_0&highlighted_blocks=970151301_369867771_2_0_0&matching_block_id=970151301_369867771_2_0_0&sr_pri_blocks=970151301_369867771_2_0_0__94500&from=searchresults#hotelTmpl",
     "title": "BANKO APARTMENTS",
     "price": "US$1.042"
+  },
+  "Studio LUKA": {
+    "url": "https://www.booking.com/hotel/hr/studio-luka-rovinj1.de.html?label=gen173nr-1FCAEoggI46AdIB1gEaDuIAQGYAQe4AQfIAQzYAQHoAQH4AQKIAgGoAgO4ArLCnaAGwAIB0gIkZjk0MzE1NzYtNjJiYS00OTcyLTgwMWEtOGU1NTgyOGQ1OWE52AIF4AIB&aid=304142&ucfs=1&arphpl=1&checkin=2023-06-03&checkout=2023-06-12&dest_id=-94604&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=13&hapos=13&sr_order=popularity&nflt=distance%3D1000%3Boos%3D1%3Breview_score%3D80&srpvid=b7cd51aad0520108&srepoch=1682422614&all_sr_blocks=855684601_353101999_2_0_0&highlighted_blocks=855684601_353101999_2_0_0&matching_block_id=855684601_353101999_2_0_0&sr_pri_blocks=855684601_353101999_2_0_0__54000&from=searchresults#hotelTmpl",
+    "title": "Studio LUKA",
+    "price": "US$596"
   }
 }
