@@ -723,5 +723,10 @@
     "url": "https://www.booking.com/hotel/hr/apartment-studio-mery-rovinj.de.html?label=gen173nr-1FCAEoggI46AdIB1gEaDuIAQGYAQe4AQfIAQzYAQHoAQH4AQKIAgGoAgO4ArLCnaAGwAIB0gIkZjk0MzE1NzYtNjJiYS00OTcyLTgwMWEtOGU1NTgyOGQ1OWE52AIF4AIB&aid=304142&ucfs=1&arphpl=1&checkin=2023-06-03&checkout=2023-06-12&dest_id=-94604&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=4&hapos=4&sr_order=popularity&nflt=distance%3D1000%3Boos%3D1%3Breview_score%3D80&srpvid=10a44399d224000f&srepoch=1682415413&all_sr_blocks=516018301_332011281_2_0_0&highlighted_blocks=516018301_332011281_2_0_0&matching_block_id=516018301_332011281_2_0_0&sr_pri_blocks=516018301_332011281_2_0_0__90000&from=searchresults#hotelTmpl",
     "title": "Studio Apartment Magic",
     "price": "US$993"
+  },
+  "BANKO APARTMENTS": {
+    "url": "https://www.booking.com/hotel/hr/banko-apartments.de.html?label=gen173nr-1FCAEoggI46AdIB1gEaDuIAQGYAQe4AQfIAQzYAQHoAQH4AQKIAgGoAgO4ArLCnaAGwAIB0gIkZjk0MzE1NzYtNjJiYS00OTcyLTgwMWEtOGU1NTgyOGQ1OWE52AIF4AIB&aid=304142&ucfs=1&arphpl=1&checkin=2023-06-03&checkout=2023-06-12&dest_id=-94604&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=18&hapos=18&sr_order=popularity&nflt=distance%3D1000%3Boos%3D1%3Breview_score%3D80&srpvid=f6264a9fc4b400e1&srepoch=1682419009&all_sr_blocks=970151301_369867771_2_0_0&highlighted_blocks=970151301_369867771_2_0_0&matching_block_id=970151301_369867771_2_0_0&sr_pri_blocks=970151301_369867771_2_0_0__94500&from=searchresults#hotelTmpl",
+    "title": "BANKO APARTMENTS",
+    "price": "US$1.042"
   }
 }
