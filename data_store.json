@@ -753,5 +753,15 @@
     "url": "https://www.booking.com/hotel/hr/apartment-lara-rovinj.de.html?label=gen173nr-1FCAEoggI46AdIB1gEaDuIAQGYAQe4AQfIAQzYAQHoAQH4AQKIAgGoAgO4ArLCnaAGwAIB0gIkZjk0MzE1NzYtNjJiYS00OTcyLTgwMWEtOGU1NTgyOGQ1OWE52AIF4AIB&aid=304142&ucfs=1&arphpl=1&checkin=2023-06-03&checkout=2023-06-12&dest_id=-94604&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=20&hapos=20&sr_order=popularity&nflt=distance%3D1000%3Boos%3D1%3Breview_score%3D80&srpvid=d349358f119c0462&srepoch=1682494624&all_sr_blocks=230821501_257414289_4_0_0&highlighted_blocks=230821501_257414289_4_0_0&matching_block_id=230821501_257414289_4_0_0&sr_pri_blocks=230821501_257414289_4_0_0__152000&from_sustainable_property_sr=1&from=searchresults#hotelTmpl",
     "title": "Apartment Lara",
     "price": "US$1.669"
+  },
+  "Bed and Breakfast Villa Kristina": {
+    "url": "https://www.booking.com/hotel/hr/vila-kristina.de.html?label=gen173nr-1FCAEoggI46AdIB1gEaDuIAQGYAQe4AQfIAQzYAQHoAQH4AQKIAgGoAgO4ArLCnaAGwAIB0gIkZjk0MzE1NzYtNjJiYS00OTcyLTgwMWEtOGU1NTgyOGQ1OWE52AIF4AIB&aid=304142&ucfs=1&arphpl=1&checkin=2023-06-03&checkout=2023-06-12&dest_id=-94604&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&nflt=distance%3D1000%3Boos%3D1%3Breview_score%3D80&srpvid=f0814aa05bb306e3&srepoch=1682505410&all_sr_blocks=2101201_362386055_0_1_0&highlighted_blocks=2101201_362386055_0_1_0&matching_block_id=2101201_362386055_0_1_0&sr_pri_blocks=2101201_362386055_0_1_0__135000&from_sustainable_property_sr=1&from=searchresults#hotelTmpl",
+    "title": "Bed and Breakfast Villa Kristina",
+    "price": "US$1.482"
+  },
+  "Apartment Leanna - Center of Rovinj": {
+    "url": "https://www.booking.com/hotel/hr/apartment-leanna-center-of-rovinj.de.html?label=gen173nr-1FCAEoggI46AdIB1gEaDuIAQGYAQe4AQfIAQzYAQHoAQH4AQKIAgGoAgO4ArLCnaAGwAIB0gIkZjk0MzE1NzYtNjJiYS00OTcyLTgwMWEtOGU1NTgyOGQ1OWE52AIF4AIB&aid=304142&ucfs=1&arphpl=1&checkin=2023-06-03&checkout=2023-06-12&dest_id=-94604&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=18&hapos=18&sr_order=popularity&nflt=distance%3D1000%3Boos%3D1%3Breview_score%3D80&srpvid=f0814aa05bb306e3&srepoch=1682505410&all_sr_blocks=875420301_356438220_2_0_0&highlighted_blocks=875420301_356438220_2_0_0&matching_block_id=875420301_356438220_2_0_0&sr_pri_blocks=875420301_356438220_2_0_0__151470&from_sustainable_property_sr=1&from=searchresults#hotelTmpl",
+    "title": "Apartment Leanna - Center of Rovinj",
+    "price": "US$1.663"
   }
 }
