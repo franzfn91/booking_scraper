@@ -848,5 +848,10 @@
     "url": "https://www.booking.com/hotel/hr/smilje-2.de.html?label=gen173nr-1FCAEoggI46AdIB1gEaDuIAQGYAQe4AQfIAQzYAQHoAQH4AQKIAgGoAgO4ArLCnaAGwAIB0gIkZjk0MzE1NzYtNjJiYS00OTcyLTgwMWEtOGU1NTgyOGQ1OWE52AIF4AIB&aid=304142&ucfs=1&arphpl=1&checkin=2023-06-03&checkout=2023-06-12&dest_id=-94604&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=18&hapos=18&sr_order=popularity&nflt=distance%3D1000%3Boos%3D1%3Breview_score%3D80&srpvid=dc2427789d9000eb&srepoch=1683178609&all_sr_blocks=327395301_119242965_4_0_0&highlighted_blocks=327395301_119242965_4_0_0&matching_block_id=327395301_119242965_4_0_0&sr_pri_blocks=327395301_119242965_4_0_0__162000&from=searchresults#hotelTmpl",
     "title": "Smilje 2",
     "price": "US$1.791"
+  },
+  "Privileggio Residence": {
+    "url": "https://www.booking.com/hotel/hr/privileggio-residence.de.html?label=gen173nr-1FCAEoggI46AdIB1gEaDuIAQGYAQe4AQfIAQzYAQHoAQH4AQKIAgGoAgO4ArLCnaAGwAIB0gIkZjk0MzE1NzYtNjJiYS00OTcyLTgwMWEtOGU1NTgyOGQ1OWE52AIF4AIB&aid=304142&ucfs=1&arphpl=1&checkin=2023-06-03&checkout=2023-06-12&dest_id=-94604&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=12&hapos=12&sr_order=popularity&nflt=distance%3D1000%3Boos%3D1%3Breview_score%3D80&srpvid=2ae96dcc250402ae&srepoch=1683214618&all_sr_blocks=518850303_371995361_4_0_0&highlighted_blocks=518850303_371995361_4_0_0&matching_block_id=518850303_371995361_4_0_0&sr_pri_blocks=518850303_371995361_4_0_0__151800&from=searchresults#hotelTmpl",
+    "title": "Privileggio Residence",
+    "price": "US$1.678"
   }
 }
