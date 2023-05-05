@@ -868,5 +868,10 @@
     "url": "https://www.booking.com/hotel/hr/apartment-sorriso-2.de.html?label=gen173nr-1FCAEoggI46AdIB1gEaDuIAQGYAQe4AQfIAQzYAQHoAQH4AQKIAgGoAgO4ArLCnaAGwAIB0gIkZjk0MzE1NzYtNjJiYS00OTcyLTgwMWEtOGU1NTgyOGQ1OWE52AIF4AIB&aid=304142&ucfs=1&arphpl=1&checkin=2023-06-03&checkout=2023-06-12&dest_id=-94604&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=14&hapos=14&sr_order=popularity&nflt=distance%3D1000%3Boos%3D1%3Breview_score%3D80&srpvid=fc973c956f1d025c&srepoch=1683275821&all_sr_blocks=509048001_364684198_4_0_0&highlighted_blocks=509048001_364684198_4_0_0&matching_block_id=509048001_364684198_4_0_0&sr_pri_blocks=509048001_364684198_4_0_0__161020&from=searchresults#hotelTmpl",
     "title": "Apartment Sorriso 2",
     "price": "US$1.771"
+  },
+  "Rooms Josipa": {
+    "url": "https://www.booking.com/hotel/hr/guesthouse-josipa.de.html?label=gen173nr-1FCAEoggI46AdIB1gEaDuIAQGYAQe4AQfIAQzYAQHoAQH4AQKIAgGoAgO4ArLCnaAGwAIB0gIkZjk0MzE1NzYtNjJiYS00OTcyLTgwMWEtOGU1NTgyOGQ1OWE52AIF4AIB&aid=304142&ucfs=1&arphpl=1&checkin=2023-06-03&checkout=2023-06-12&dest_id=-94604&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=9&hapos=9&sr_order=popularity&nflt=distance%3D1000%3Boos%3D1%3Breview_score%3D80&srpvid=d5b443984a5a02c7&srepoch=1683279411&all_sr_blocks=107820103_372102237_2_0_0&highlighted_blocks=107820103_372102237_2_0_0&matching_block_id=107820103_372102237_2_0_0&sr_pri_blocks=107820103_372102237_2_0_0__152100&from=searchresults#hotelTmpl",
+    "title": "Rooms Josipa",
+    "price": "US$1.673"
   }
 }
