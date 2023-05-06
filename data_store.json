@@ -888,5 +888,10 @@
     "url": "https://www.booking.com/hotel/hr/ez-luxury-living.de.html?label=gen173nr-1FCAEoggI46AdIB1gEaDuIAQGYAQe4AQfIAQzYAQHoAQH4AQKIAgGoAgO4ArLCnaAGwAIB0gIkZjk0MzE1NzYtNjJiYS00OTcyLTgwMWEtOGU1NTgyOGQ1OWE52AIF4AIB&aid=304142&ucfs=1&arphpl=1&checkin=2023-06-03&checkout=2023-06-12&dest_id=-94604&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=5&hapos=5&sr_order=popularity&nflt=distance%3D1000%3Boos%3D1%3Breview_score%3D80&srpvid=875c0c1c742900ae&srepoch=1683337403&all_sr_blocks=967954602_369234087_4_0_0&highlighted_blocks=967954602_369234087_4_0_0&matching_block_id=967954602_369234087_4_0_0&sr_pri_blocks=967954602_369234087_4_0_0__335340&from=searchresults#hotelTmpl",
     "title": "EZ Luxury Living",
     "price": "US$3.689"
+  },
+  "Boutique House Djak": {
+    "url": "https://www.booking.com/hotel/hr/rooms-montalbano.de.html?label=gen173nr-1FCAEoggI46AdIB1gEaDuIAQGYAQe4AQfIAQzYAQHoAQH4AQKIAgGoAgO4ArLCnaAGwAIB0gIkZjk0MzE1NzYtNjJiYS00OTcyLTgwMWEtOGU1NTgyOGQ1OWE52AIF4AIB&aid=304142&ucfs=1&arphpl=1&checkin=2023-06-03&checkout=2023-06-12&dest_id=-94604&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=12&hapos=12&sr_order=popularity&nflt=distance%3D1000%3Boos%3D1%3Breview_score%3D80&srpvid=ab304397b6d8015f&srepoch=1683365809&all_sr_blocks=141327903_329700244_3_0_0&highlighted_blocks=141327903_329700244_3_0_0&matching_block_id=141327903_329700244_3_0_0&sr_pri_blocks=141327903_329700244_3_0_0__135000&from=searchresults#hotelTmpl",
+    "title": "Boutique House Djak",
+    "price": "US$1.486"
   }
 }
