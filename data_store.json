@@ -898,5 +898,10 @@
     "url": "https://www.booking.com/hotel/hr/apartman-fuga.de.html?label=gen173nr-1FCAEoggI46AdIB1gEaDuIAQGYAQe4AQfIAQzYAQHoAQH4AQKIAgGoAgO4ArLCnaAGwAIB0gIkZjk0MzE1NzYtNjJiYS00OTcyLTgwMWEtOGU1NTgyOGQ1OWE52AIF4AIB&aid=304142&ucfs=1&arphpl=1&checkin=2023-06-03&checkout=2023-06-12&dest_id=-94604&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=5&hapos=5&sr_order=popularity&nflt=distance%3D1000%3Boos%3D1%3Breview_score%3D80&srpvid=4b2d43a3f0ed0484&srepoch=1683452233&all_sr_blocks=369428401_146556660_2_0_0&highlighted_blocks=369428401_146556660_2_0_0&matching_block_id=369428401_146556660_2_0_0&sr_pri_blocks=369428401_146556660_2_0_0__198000&from=searchresults#hotelTmpl",
     "title": "Apartman Fuga and Sonata",
     "price": "US$2.179"
+  },
+  "Apartments Casa Menis": {
+    "url": "https://www.booking.com/hotel/hr/apartments-casa-menis.de.html?label=gen173nr-1FCAEoggI46AdIB1gEaDuIAQGYAQe4AQfIAQzYAQHoAQH4AQKIAgGoAgO4ArLCnaAGwAIB0gIkZjk0MzE1NzYtNjJiYS00OTcyLTgwMWEtOGU1NTgyOGQ1OWE52AIF4AIB&aid=304142&ucfs=1&arphpl=1&checkin=2023-06-03&checkout=2023-06-12&dest_id=-94604&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=14&hapos=14&sr_order=popularity&nflt=distance%3D1000%3Boos%3D1%3Breview_score%3D80&srpvid=6a3a51a816950a31&srepoch=1683459410&all_sr_blocks=55655804_347325893_0_0_0&highlighted_blocks=55655804_347325893_0_0_0&matching_block_id=55655804_347325893_0_0_0&sr_pri_blocks=55655804_347325893_0_0_0__165600&from=searchresults#hotelTmpl",
+    "title": "Apartments Casa Menis",
+    "price": "US$1.823"
   }
 }
