@@ -903,5 +903,10 @@
     "url": "https://www.booking.com/hotel/hr/apartments-casa-menis.de.html?label=gen173nr-1FCAEoggI46AdIB1gEaDuIAQGYAQe4AQfIAQzYAQHoAQH4AQKIAgGoAgO4ArLCnaAGwAIB0gIkZjk0MzE1NzYtNjJiYS00OTcyLTgwMWEtOGU1NTgyOGQ1OWE52AIF4AIB&aid=304142&ucfs=1&arphpl=1&checkin=2023-06-03&checkout=2023-06-12&dest_id=-94604&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=14&hapos=14&sr_order=popularity&nflt=distance%3D1000%3Boos%3D1%3Breview_score%3D80&srpvid=6a3a51a816950a31&srepoch=1683459410&all_sr_blocks=55655804_347325893_0_0_0&highlighted_blocks=55655804_347325893_0_0_0&matching_block_id=55655804_347325893_0_0_0&sr_pri_blocks=55655804_347325893_0_0_0__165600&from=searchresults#hotelTmpl",
     "title": "Apartments Casa Menis",
     "price": "US$1.823"
+  },
+  "Rooms Kata": {
+    "url": "https://www.booking.com/hotel/hr/roms-kata.de.html?label=gen173nr-1FCAEoggI46AdIB1gEaDuIAQGYAQe4AQfIAQzYAQHoAQH4AQKIAgGoAgO4ArLCnaAGwAIB0gIkZjk0MzE1NzYtNjJiYS00OTcyLTgwMWEtOGU1NTgyOGQ1OWE52AIF4AIB&aid=304142&ucfs=1&arphpl=1&checkin=2023-06-03&checkout=2023-06-12&dest_id=-94604&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=10&hapos=10&sr_order=popularity&nflt=distance%3D1000%3Boos%3D1%3Breview_score%3D80&srpvid=f0815a0ceb4f02d8&srepoch=1683463705&all_sr_blocks=30804601_373016969_0_0_0&highlighted_blocks=30804601_373016969_0_0_0&matching_block_id=30804601_373016969_0_0_0&sr_pri_blocks=30804601_373016969_0_0_0__110700&from=searchresults#hotelTmpl",
+    "title": "Rooms Kata",
+    "price": "US$1.218"
   }
 }
