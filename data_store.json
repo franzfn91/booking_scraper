@@ -913,5 +913,10 @@
     "url": "https://www.booking.com/hotel/hr/art-apartment-in-center.de.html?label=gen173nr-1FCAEoggI46AdIB1gEaDuIAQGYAQe4AQfIAQzYAQHoAQH4AQKIAgGoAgO4ArLCnaAGwAIB0gIkZjk0MzE1NzYtNjJiYS00OTcyLTgwMWEtOGU1NTgyOGQ1OWE52AIF4AIB&aid=304142&ucfs=1&arphpl=1&checkin=2023-06-03&checkout=2023-06-12&dest_id=-94604&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=15&hapos=15&sr_order=popularity&nflt=distance%3D1000%3Boos%3D1%3Breview_score%3D80&srpvid=63656dce06090715&srepoch=1683473821&all_sr_blocks=174094501_327152990_4_0_0&highlighted_blocks=174094501_327152990_4_0_0&matching_block_id=174094501_327152990_4_0_0&sr_pri_blocks=174094501_327152990_4_0_0__136068&from=searchresults#hotelTmpl",
     "title": "Art Apartment",
     "price": "US$1.498"
+  },
+  "Apartments Garden": {
+    "url": "https://www.booking.com/hotel/hr/apartments-garden-rovinj.de.html?label=gen173nr-1FCAEoggI46AdIB1gEaDuIAQGYAQe4AQfIAQzYAQHoAQH4AQKIAgGoAgO4ArLCnaAGwAIB0gIkZjk0MzE1NzYtNjJiYS00OTcyLTgwMWEtOGU1NTgyOGQ1OWE52AIF4AIB&aid=304142&ucfs=1&arphpl=1&checkin=2023-06-03&checkout=2023-06-12&dest_id=-94604&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=12&hapos=12&sr_order=popularity&nflt=distance%3D1000%3Boos%3D1%3Breview_score%3D80&srpvid=4d9c97fdc41a009f&srepoch=1683495421&all_sr_blocks=185351306_91898941_0_0_0&highlighted_blocks=185351306_91898941_0_0_0&matching_block_id=185351306_91898941_0_0_0&sr_pri_blocks=185351306_91898941_0_0_0__109350&from=searchresults#hotelTmpl",
+    "title": "Apartments Garden",
+    "price": "US$1.204"
   }
 }
