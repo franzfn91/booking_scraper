@@ -923,5 +923,10 @@
     "url": "https://www.booking.com/hotel/hr/studio-storico.de.html?label=gen173nr-1FCAEoggI46AdIB1gEaDuIAQGYAQe4AQfIAQzYAQHoAQH4AQKIAgGoAgO4ArLCnaAGwAIB0gIkZjk0MzE1NzYtNjJiYS00OTcyLTgwMWEtOGU1NTgyOGQ1OWE52AIF4AIB&aid=304142&ucfs=1&arphpl=1&checkin=2023-06-03&checkout=2023-06-12&dest_id=-94604&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=15&hapos=15&sr_order=popularity&nflt=distance%3D1000%3Boos%3D1%3Breview_score%3D80&srpvid=cd2e439b7a990827&srepoch=1683538617&all_sr_blocks=891262703_372976360_2_0_0&highlighted_blocks=891262703_372976360_2_0_0&matching_block_id=891262703_372976360_2_0_0&sr_pri_blocks=891262703_372976360_2_0_0__60300&from=searchresults#hotelTmpl",
     "title": "Studio Storico",
     "price": "US$664"
+  },
+  "Vintage Apartment Rovinj Old Town": {
+    "url": "https://www.booking.com/hotel/hr/vintage-apartment-rovinj-old-town.de.html?label=gen173nr-1FCAEoggI46AdIB1gEaDuIAQGYAQe4AQfIAQzYAQHoAQH4AQKIAgGoAgO4ArLCnaAGwAIB0gIkZjk0MzE1NzYtNjJiYS00OTcyLTgwMWEtOGU1NTgyOGQ1OWE52AIF4AIB&aid=304142&ucfs=1&arphpl=1&checkin=2023-06-03&checkout=2023-06-12&dest_id=-94604&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=3&hapos=3&sr_order=popularity&nflt=distance%3D1000%3Boos%3D1%3Breview_score%3D80&srpvid=a1197bd776fb0032&srepoch=1683567408&all_sr_blocks=332620601_178610324_4_0_0&highlighted_blocks=332620601_178610324_4_0_0&matching_block_id=332620601_178610324_4_0_0&sr_pri_blocks=332620601_178610324_4_0_0__109000&from=searchresults#hotelTmpl",
+    "title": "Vintage Apartment Rovinj Old Town",
+    "price": "US$1.200"
   }
 }
