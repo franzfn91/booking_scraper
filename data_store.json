@@ -938,5 +938,15 @@
     "url": "https://www.booking.com/hotel/hr/casa-rovigno.de.html?label=gen173nr-1FCAEoggI46AdIB1gEaDuIAQGYAQe4AQfIAQzYAQHoAQH4AQKIAgGoAgO4ArLCnaAGwAIB0gIkZjk0MzE1NzYtNjJiYS00OTcyLTgwMWEtOGU1NTgyOGQ1OWE52AIF4AIB&aid=304142&ucfs=1&arphpl=1&checkin=2023-06-03&checkout=2023-06-12&dest_id=-94604&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=11&hapos=11&sr_order=popularity&nflt=distance%3D1000%3Boos%3D1%3Breview_score%3D80&srpvid=82fd206eca620053&srepoch=1683693407&all_sr_blocks=542311402_329559260_2_0_0&highlighted_blocks=542311402_329559260_2_0_0&matching_block_id=542311402_329559260_2_0_0&sr_pri_blocks=542311402_329559260_2_0_0__146000&from=searchresults#hotelTmpl",
     "title": "Casa Rovigno",
     "price": "US$1.608"
+  },
+  "mini studio Mignon": {
+    "url": "https://www.booking.com/hotel/hr/mini-studio-mignon.de.html?label=gen173nr-1FCAEoggI46AdIB1gEaDuIAQGYAQe4AQfIAQzYAQHoAQH4AQKIAgGoAgO4ArLCnaAGwAIB0gIkZjk0MzE1NzYtNjJiYS00OTcyLTgwMWEtOGU1NTgyOGQ1OWE52AIF4AIB&aid=304142&ucfs=1&arphpl=1&checkin=2023-06-03&checkout=2023-06-12&dest_id=-94604&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=6&hapos=6&sr_order=popularity&nflt=distance%3D1000%3Boos%3D1%3Breview_score%3D80&srpvid=1d5291184cfd0108&srepoch=1683751091&all_sr_blocks=545089601_196215011_2_0_0&highlighted_blocks=545089601_196215011_2_0_0&matching_block_id=545089601_196215011_2_0_0&sr_pri_blocks=545089601_196215011_2_0_0__90000&from=searchresults#hotelTmpl",
+    "title": "mini studio Mignon",
+    "price": "US$986"
+  },
+  "Residence Marco Polo by Porta Antica": {
+    "url": "https://www.booking.com/hotel/hr/residence-marco-polo.de.html?label=gen173nr-1FCAEoggI46AdIB1gEaDuIAQGYAQe4AQfIAQzYAQHoAQH4AQKIAgGoAgO4ArLCnaAGwAIB0gIkZjk0MzE1NzYtNjJiYS00OTcyLTgwMWEtOGU1NTgyOGQ1OWE52AIF4AIB&aid=304142&ucfs=1&arphpl=1&checkin=2023-06-03&checkout=2023-06-12&dest_id=-94604&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=11&hapos=11&sr_order=popularity&nflt=distance%3D1000%3Boos%3D1%3Breview_score%3D80&srpvid=1d5291184cfd0108&srepoch=1683751091&all_sr_blocks=30024604_373186778_0_0_0&highlighted_blocks=30024604_373186778_0_0_0&matching_block_id=30024604_373186778_0_0_0&sr_pri_blocks=30024604_373186778_0_0_0__141300&from_sustainable_property_sr=1&from=searchresults#hotelTmpl",
+    "title": "Residence Marco Polo by Porta Antica",
+    "price": "US$1.548"
   }
 }
