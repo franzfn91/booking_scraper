@@ -953,5 +953,10 @@
     "url": "https://www.booking.com/hotel/hr/casa-matteotti.de.html?label=gen173nr-1FCAEoggI46AdIB1gEaDuIAQGYAQe4AQfIAQzYAQHoAQH4AQKIAgGoAgO4ArLCnaAGwAIB0gIkZjk0MzE1NzYtNjJiYS00OTcyLTgwMWEtOGU1NTgyOGQ1OWE52AIF4AIB&aid=304142&ucfs=1&arphpl=1&checkin=2023-06-03&checkout=2023-06-12&dest_id=-94604&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=7&hapos=7&sr_order=popularity&nflt=distance%3D1000%3Boos%3D1%3Breview_score%3D80&srpvid=b80b3591562402d0&srepoch=1683790629&all_sr_blocks=204182802_285280080_4_0_0&highlighted_blocks=204182802_285280080_4_0_0&matching_block_id=204182802_285280080_4_0_0&sr_pri_blocks=204182802_285280080_4_0_0__211000&from=searchresults#hotelTmpl",
     "title": "Casa Matteotti",
     "price": "US$2.315"
+  },
+  "AP Downtown Apartment Rovinj": {
+    "url": "https://www.booking.com/hotel/hr/ap-downtown-apartment-rovinj.de.html?label=gen173nr-1FCAEoggI46AdIB1gEaDuIAQGYAQe4AQfIAQzYAQHoAQH4AQKIAgGoAgO4ArLCnaAGwAIB0gIkZjk0MzE1NzYtNjJiYS00OTcyLTgwMWEtOGU1NTgyOGQ1OWE52AIF4AIB&aid=304142&ucfs=1&arphpl=1&checkin=2023-06-03&checkout=2023-06-12&dest_id=-94604&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=11&hapos=11&sr_order=popularity&nflt=distance%3D1000%3Boos%3D1%3Breview_score%3D80&srpvid=cc9251aa15910259&srepoch=1683805014&all_sr_blocks=967361801_369191603_5_0_0&highlighted_blocks=967361801_369191603_5_0_0&matching_block_id=967361801_369191603_5_0_0&sr_pri_blocks=967361801_369191603_5_0_0__142025&from=searchresults#hotelTmpl",
+    "title": "AP Downtown Apartment Rovinj",
+    "price": "US$1.558"
   }
 }
