@@ -993,5 +993,10 @@
     "url": "https://www.booking.com/hotel/hr/captains-room.de.html?label=gen173nr-1FCAEoggI46AdIB1gEaDuIAQGYAQe4AQfIAQzYAQHoAQH4AQKIAgGoAgO4ArLCnaAGwAIB0gIkZjk0MzE1NzYtNjJiYS00OTcyLTgwMWEtOGU1NTgyOGQ1OWE52AIF4AIB&aid=304142&ucfs=1&arphpl=1&checkin=2023-06-03&checkout=2023-06-12&dest_id=-94604&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=18&hapos=18&sr_order=popularity&nflt=distance%3D1000%3Boos%3D1%3Breview_score%3D80&srpvid=ce454aa6e8fd0333&srepoch=1684147022&all_sr_blocks=952658401_367837479_2_0_0&highlighted_blocks=952658401_367837479_2_0_0&matching_block_id=952658401_367837479_2_0_0&sr_pri_blocks=952658401_367837479_2_0_0__87308&from=searchresults#hotelTmpl",
     "title": "Captains room",
     "price": "US$948"
+  },
+  "Apartment Bea & Leo": {
+    "url": "https://www.booking.com/hotel/hr/blue-central-apartment-2-2.de.html?label=gen173nr-1FCAEoggI46AdIB1gEaDuIAQGYAQe4AQfIAQzYAQHoAQH4AQKIAgGoAgO4ArLCnaAGwAIB0gIkZjk0MzE1NzYtNjJiYS00OTcyLTgwMWEtOGU1NTgyOGQ1OWE52AIF4AIB&aid=304142&ucfs=1&arphpl=1&checkin=2023-06-03&checkout=2023-06-12&dest_id=-94604&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=5&hapos=5&sr_order=popularity&nflt=distance%3D1000%3Boos%3D1%3Breview_score%3D80&srpvid=20ce4aa269400084&srepoch=1684233414&all_sr_blocks=180359501_327205523_3_0_0&highlighted_blocks=180359501_327205523_3_0_0&matching_block_id=180359501_327205523_3_0_0&sr_pri_blocks=180359501_327205523_3_0_0__81972&from=searchresults#hotelTmpl",
+    "title": "Apartment Bea & Leo",
+    "price": "US$891"
   }
 }
