@@ -1033,5 +1033,10 @@
     "url": "https://www.booking.com/hotel/hr/ca-39-del-sole.de.html?label=gen173nr-1FCAEoggI46AdIB1gEaDuIAQGYAQe4AQfIAQzYAQHoAQH4AQKIAgGoAgO4ArLCnaAGwAIB0gIkZjk0MzE1NzYtNjJiYS00OTcyLTgwMWEtOGU1NTgyOGQ1OWE52AIF4AIB&aid=304142&ucfs=1&arphpl=1&checkin=2023-06-03&checkout=2023-06-12&dest_id=-94604&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=20&hapos=20&sr_order=popularity&nflt=distance%3D1000%3Boos%3D1%3Breview_score%3D80&srpvid=6d826dc7fa8c0072&srepoch=1684510607&all_sr_blocks=141304401_276464758_2_0_0&highlighted_blocks=141304401_276464758_2_0_0&matching_block_id=141304401_276464758_2_0_0&sr_pri_blocks=141304401_276464758_2_0_0__84456&from=searchresults#hotelTmpl",
     "title": "Ca'del Sole",
     "price": "US$910"
+  },
+  "Apartman tutto bene": {
+    "url": "https://www.booking.com/hotel/hr/apartman-tutto-bene.de.html?label=gen173nr-1FCAEoggI46AdIB1gEaDuIAQGYAQe4AQfIAQzYAQHoAQH4AQKIAgGoAgO4ArLCnaAGwAIB0gIkZjk0MzE1NzYtNjJiYS00OTcyLTgwMWEtOGU1NTgyOGQ1OWE52AIF4AIB&aid=304142&ucfs=1&arphpl=1&checkin=2023-06-03&checkout=2023-06-12&dest_id=-94604&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=20&hapos=20&sr_order=popularity&nflt=distance%3D1000%3Boos%3D1%3Breview_score%3D80&srpvid=481166bd1cd5008a&srepoch=1684593405&all_sr_blocks=391394801_175175407_0_0_0&highlighted_blocks=391394801_175175407_0_0_0&matching_block_id=391394801_175175407_0_0_0&sr_pri_blocks=391394801_175175407_0_0_0__107806&from=searchresults#hotelTmpl",
+    "title": "Apartman tutto bene",
+    "price": "US$1.163"
   }
 }
