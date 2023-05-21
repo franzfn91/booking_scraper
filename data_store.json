@@ -1043,5 +1043,10 @@
     "url": "https://www.booking.com/hotel/hr/apartments-santa-croce-rovinj.de.html?label=gen173nr-1FCAEoggI46AdIB1gEaDuIAQGYAQe4AQfIAQzYAQHoAQH4AQKIAgGoAgO4ArLCnaAGwAIB0gIkZjk0MzE1NzYtNjJiYS00OTcyLTgwMWEtOGU1NTgyOGQ1OWE52AIF4AIB&aid=304142&ucfs=1&arphpl=1&checkin=2023-06-03&checkout=2023-06-12&dest_id=-94604&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=14&hapos=14&sr_order=popularity&nflt=distance%3D1000%3Boos%3D1%3Breview_score%3D80&srpvid=b20689e5c5c6018c&srepoch=1684611405&all_sr_blocks=37101301_343270843_0_0_0&highlighted_blocks=37101301_343270843_0_0_0&matching_block_id=37101301_343270843_0_0_0&sr_pri_blocks=37101301_343270843_0_0_0__112240&from=searchresults#hotelTmpl",
     "title": "Apartment Santa Croce",
     "price": "US$1.211"
+  },
+  "Rovinj Centar Old town": {
+    "url": "https://www.booking.com/hotel/hr/rovinj-centar-old-town-no-1.de.html?label=gen173nr-1FCAEoggI46AdIB1gEaDuIAQGYAQe4AQfIAQzYAQHoAQH4AQKIAgGoAgO4ArLCnaAGwAIB0gIkZjk0MzE1NzYtNjJiYS00OTcyLTgwMWEtOGU1NTgyOGQ1OWE52AIF4AIB&aid=304142&ucfs=1&arphpl=1&checkin=2023-06-03&checkout=2023-06-12&dest_id=-94604&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=20&hapos=20&sr_order=popularity&nflt=distance%3D1000%3Boos%3D1%3Breview_score%3D80&srpvid=65fb74f3fbe2020e&srepoch=1684687080&all_sr_blocks=843812702_351247716_2_0_0&highlighted_blocks=843812702_351247716_2_0_0&matching_block_id=843812702_351247716_2_0_0&sr_pri_blocks=843812702_351247716_2_0_0__107640&from=searchresults#hotelTmpl",
+    "title": "Rovinj Centar Old town",
+    "price": "US$1.161"
   }
 }
