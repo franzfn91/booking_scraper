@@ -1088,5 +1088,10 @@
     "url": "https://www.booking.com/hotel/hr/apartments-godena.de.html?label=gen173nr-1FCAEoggI46AdIB1gEaDuIAQGYAQe4AQfIAQzYAQHoAQH4AQKIAgGoAgO4ArLCnaAGwAIB0gIkZjk0MzE1NzYtNjJiYS00OTcyLTgwMWEtOGU1NTgyOGQ1OWE52AIF4AIB&aid=304142&ucfs=1&arphpl=1&checkin=2023-06-03&checkout=2023-06-12&dest_id=-94604&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=21&hapos=21&sr_order=popularity&nflt=distance%3D1000%3Boos%3D1%3Breview_score%3D80&srpvid=92fd5fbb464f026a&srepoch=1684935416&all_sr_blocks=90893902_369050180_0_0_0&highlighted_blocks=90893902_369050180_0_0_0&matching_block_id=90893902_369050180_0_0_0&sr_pri_blocks=90893902_369050180_0_0_0__121532&from=searchresults#hotelTmpl",
     "title": "Apartments Godena",
     "price": "US$1.310"
+  },
+  "Monte Sea View Residence": {
+    "url": "https://www.booking.com/hotel/hr/monte-sea-view-residence.de.html?label=gen173nr-1FCAEoggI46AdIB1gEaDuIAQGYAQe4AQfIAQzYAQHoAQH4AQKIAgGoAgO4ArLCnaAGwAIB0gIkZjk0MzE1NzYtNjJiYS00OTcyLTgwMWEtOGU1NTgyOGQ1OWE52AIF4AIB&aid=304142&ucfs=1&arphpl=1&checkin=2023-06-03&checkout=2023-06-12&dest_id=-94604&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=4&hapos=4&sr_order=popularity&nflt=distance%3D1000%3Boos%3D1%3Breview_score%3D80&srpvid=11aa90f27d510030&srepoch=1684960615&all_sr_blocks=706505701_295468514_4_0_0&highlighted_blocks=706505701_295468514_4_0_0&matching_block_id=706505701_295468514_4_0_0&sr_pri_blocks=706505701_295468514_4_0_0__182160&from=searchresults#hotelTmpl",
+    "title": "Monte Sea View Residence",
+    "price": "US$1.963"
   }
 }
