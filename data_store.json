@@ -1078,5 +1078,10 @@
     "url": "https://www.booking.com/hotel/hr/holiday-home-dora-rovinj.de.html?label=gen173nr-1FCAEoggI46AdIB1gEaDuIAQGYAQe4AQfIAQzYAQHoAQH4AQKIAgGoAgO4ArLCnaAGwAIB0gIkZjk0MzE1NzYtNjJiYS00OTcyLTgwMWEtOGU1NTgyOGQ1OWE52AIF4AIB&aid=304142&ucfs=1&arphpl=1&checkin=2023-06-03&checkout=2023-06-12&dest_id=-94604&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=18&hapos=18&sr_order=popularity&nflt=distance%3D1000%3Boos%3D1%3Breview_score%3D80&srpvid=59712e8ef2f30243&srepoch=1684910238&all_sr_blocks=242849001_218826438_2_0_0&highlighted_blocks=242849001_218826438_2_0_0&matching_block_id=242849001_218826438_2_0_0&sr_pri_blocks=242849001_218826438_2_0_0__105570&from=searchresults#hotelTmpl",
     "title": "Holiday Home Dora",
     "price": "US$1.138"
+  },
+  "Santa Lucia Guest House": {
+    "url": "https://www.booking.com/hotel/hr/santa-lucia-rovinj.de.html?label=gen173nr-1FCAEoggI46AdIB1gEaDuIAQGYAQe4AQfIAQzYAQHoAQH4AQKIAgGoAgO4ArLCnaAGwAIB0gIkZjk0MzE1NzYtNjJiYS00OTcyLTgwMWEtOGU1NTgyOGQ1OWE52AIF4AIB&aid=304142&ucfs=1&arphpl=1&checkin=2023-06-03&checkout=2023-06-12&dest_id=-94604&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=4&hapos=4&sr_order=popularity&nflt=distance%3D1000%3Boos%3D1%3Breview_score%3D80&srpvid=7ddc51af55a801be&srepoch=1684928224&all_sr_blocks=266656901_260979024_2_0_0&highlighted_blocks=266656901_260979024_2_0_0&matching_block_id=266656901_260979024_2_0_0&sr_pri_blocks=266656901_260979024_2_0_0__243846&from_sustainable_property_sr=1&from=searchresults#hotelTmpl",
+    "title": "Santa Lucia Guest House",
+    "price": "US$2.628"
   }
 }
