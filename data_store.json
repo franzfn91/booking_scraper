@@ -1098,5 +1098,10 @@
     "url": "https://www.booking.com/hotel/hr/maria-mare.de.html?label=gen173nr-1FCAEoggI46AdIB1gEaDuIAQGYAQe4AQfIAQzYAQHoAQH4AQKIAgGoAgO4ArLCnaAGwAIB0gIkZjk0MzE1NzYtNjJiYS00OTcyLTgwMWEtOGU1NTgyOGQ1OWE52AIF4AIB&aid=304142&ucfs=1&arphpl=1&checkin=2023-06-03&checkout=2023-06-12&dest_id=-94604&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=21&hapos=21&sr_order=popularity&nflt=distance%3D1000%3Boos%3D1%3Breview_score%3D80&srpvid=af303c8f6f970145&srepoch=1685003808&all_sr_blocks=659001501_332730259_2_0_0&highlighted_blocks=659001501_332730259_2_0_0&matching_block_id=659001501_332730259_2_0_0&sr_pri_blocks=659001501_332730259_2_0_0__131100&from=searchresults#hotelTmpl",
     "title": "MARIA Mare",
     "price": "US$1.411"
+  },
+  "Lokva Studio": {
+    "url": "https://www.booking.com/hotel/hr/lokva-studio.de.html?label=gen173nr-1FCAEoggI46AdIB1gEaDuIAQGYAQe4AQfIAQzYAQHoAQH4AQKIAgGoAgO4ArLCnaAGwAIB0gIkZjk0MzE1NzYtNjJiYS00OTcyLTgwMWEtOGU1NTgyOGQ1OWE52AIF4AIB&aid=304142&ucfs=1&arphpl=1&checkin=2023-06-03&checkout=2023-06-12&dest_id=-94604&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=2&hapos=2&sr_order=popularity&nflt=distance%3D1000%3Boos%3D1%3Breview_score%3D80&srpvid=df134aa3326900fa&srepoch=1685011016&all_sr_blocks=990859702_372142372_2_0_0&highlighted_blocks=990859702_372142372_2_0_0&matching_block_id=990859702_372142372_2_0_0&sr_pri_blocks=990859702_372142372_2_0_0__106812&from=searchresults#hotelTmpl",
+    "title": "Lokva Studio",
+    "price": "US$1.150"
   }
 }
