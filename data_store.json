@@ -1123,5 +1123,10 @@
     "url": "https://www.booking.com/hotel/hr/apartment-tamburini.de.html?label=gen173nr-1FCAEoggI46AdIB1gEaDuIAQGYAQe4AQfIAQzYAQHoAQH4AQKIAgGoAgO4ArLCnaAGwAIB0gIkZjk0MzE1NzYtNjJiYS00OTcyLTgwMWEtOGU1NTgyOGQ1OWE52AIF4AIB&aid=304142&ucfs=1&arphpl=1&checkin=2023-06-03&checkout=2023-06-12&dest_id=-94604&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=9&hapos=9&sr_order=popularity&nflt=distance%3D1000%3Boos%3D1%3Breview_score%3D80&srpvid=6f6c9f00eacc004b&srepoch=1685227009&all_sr_blocks=140221404_211049569_4_0_0&highlighted_blocks=140221404_211049569_4_0_0&matching_block_id=140221404_211049569_4_0_0&sr_pri_blocks=140221404_211049569_4_0_0__135000&from=searchresults#hotelTmpl",
     "title": "Apartments Tamburini",
     "price": "US$1.445"
+  },
+  "Apartments Villa Ernesta": {
+    "url": "https://www.booking.com/hotel/hr/villa-ernesta.de.html?label=gen173nr-1FCAEoggI46AdIB1gEaDuIAQGYAQe4AQfIAQzYAQHoAQH4AQKIAgGoAgO4ArLCnaAGwAIB0gIkZjk0MzE1NzYtNjJiYS00OTcyLTgwMWEtOGU1NTgyOGQ1OWE52AIF4AIB&aid=304142&ucfs=1&arphpl=1&checkin=2023-06-03&checkout=2023-06-12&dest_id=-94604&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=21&hapos=21&sr_order=popularity&nflt=distance%3D1000%3Boos%3D1%3Breview_score%3D80&srpvid=ddef439952de012c&srepoch=1685266611&all_sr_blocks=30362602_374006280_2_0_0&highlighted_blocks=30362602_374006280_2_0_0&matching_block_id=30362602_374006280_2_0_0&sr_pri_blocks=30362602_374006280_2_0_0__81000&from=searchresults#hotelTmpl",
+    "title": "Apartments Villa Ernesta",
+    "price": "US$867"
   }
 }
