@@ -1183,5 +1183,10 @@
     "url": "https://www.booking.com/hotel/hr/hidden-oasis-studio.de.html?label=gen173nr-1FCAEoggI46AdIB1gEaDuIAQGYAQe4AQfIAQzYAQHoAQH4AQKIAgGoAgO4ArLCnaAGwAIB0gIkZjk0MzE1NzYtNjJiYS00OTcyLTgwMWEtOGU1NTgyOGQ1OWE52AIF4AIB&aid=304142&ucfs=1&arphpl=1&checkin=2023-06-03&checkout=2023-06-12&dest_id=-94604&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=2&hapos=2&sr_order=popularity&nflt=distance%3D1000%3Boos%3D1%3Breview_score%3D80&srpvid=d34951ac5f930059&srepoch=1685619418&all_sr_blocks=1005087401_373256327_2_0_0&highlighted_blocks=1005087401_373256327_2_0_0&matching_block_id=1005087401_373256327_2_0_0&sr_pri_blocks=1005087401_373256327_2_0_0__115506&from_sustainable_property_sr=1&from=searchresults#hotelTmpl",
     "title": "Hidden Oasis Studio",
     "price": "US$1.231"
+  },
+  "Piazza Grande Apartment": {
+    "url": "https://www.booking.com/hotel/hr/piazza-grande-apartment.de.html?label=gen173nr-1FCAEoggI46AdIB1gEaDuIAQGYAQe4AQfIAQzYAQHoAQH4AQKIAgGoAgO4ArLCnaAGwAIB0gIkZjk0MzE1NzYtNjJiYS00OTcyLTgwMWEtOGU1NTgyOGQ1OWE52AIF4AIB&aid=304142&ucfs=1&arphpl=1&checkin=2023-06-03&checkout=2023-06-12&dest_id=-94604&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=15&hapos=15&sr_order=popularity&nflt=distance%3D1000%3Boos%3D1%3Breview_score%3D80&srpvid=20435fba0eb500ae&srepoch=1685626614&all_sr_blocks=506155701_374179737_4_0_0&highlighted_blocks=506155701_374179737_4_0_0&matching_block_id=506155701_374179737_4_0_0&sr_pri_blocks=506155701_374179737_4_0_0__190000&from=searchresults#hotelTmpl",
+    "title": "Piazza Grande Apartment",
+    "price": "US$2.026"
   }
 }
