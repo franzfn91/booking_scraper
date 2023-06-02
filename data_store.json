@@ -1193,5 +1193,10 @@
     "url": "https://www.booking.com/hotel/hr/molo-grande.de.html?label=gen173nr-1FCAEoggI46AdIB1gEaDuIAQGYAQe4AQfIAQzYAQHoAQH4AQKIAgGoAgO4ArLCnaAGwAIB0gIkZjk0MzE1NzYtNjJiYS00OTcyLTgwMWEtOGU1NTgyOGQ1OWE52AIF4AIB&aid=304142&ucfs=1&arphpl=1&checkin=2023-06-03&checkout=2023-06-12&dest_id=-94604&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=5&hapos=5&sr_order=popularity&nflt=distance%3D1000%3Boos%3D1%3Breview_score%3D80&srpvid=e5086dce2818012c&srepoch=1685633822&all_sr_blocks=953046901_367863917_2_2_0&highlighted_blocks=953046901_367863917_2_2_0&matching_block_id=953046901_367863917_2_2_0&sr_pri_blocks=953046901_367863917_2_2_0__120060&from=searchresults#hotelTmpl",
     "title": "Molo Grande - Sea View",
     "price": "US$1.280"
+  },
+  "Apartments Vincero": {
+    "url": "https://www.booking.com/hotel/hr/apartments-vincero.de.html?label=gen173nr-1FCAEoggI46AdIB1gEaDuIAQGYAQe4AQfIAQzYAQHoAQH4AQKIAgGoAgO4ArLCnaAGwAIB0gIkZjk0MzE1NzYtNjJiYS00OTcyLTgwMWEtOGU1NTgyOGQ1OWE52AIF4AIB&aid=304142&ucfs=1&arphpl=1&checkin=2023-06-03&checkout=2023-06-12&dest_id=-94604&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=14&hapos=14&sr_order=popularity&nflt=distance%3D1000%3Boos%3D1%3Breview_score%3D80&srpvid=bb535fc2608c0310&srepoch=1685713031&all_sr_blocks=400556403_179931761_2_0_0&highlighted_blocks=400556403_179931761_2_0_0&matching_block_id=400556403_179931761_2_0_0&sr_pri_blocks=400556403_179931761_2_0_0__111600&from=searchresults#hotelTmpl",
+    "title": "Apartments Vincero",
+    "price": "US$1.198"
   }
 }
