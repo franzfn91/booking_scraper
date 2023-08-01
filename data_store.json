@@ -1703,5 +1703,10 @@
     "url": "https://www.booking.com/hotel/es/queen-cayetana.de.html?label=gen173nr-1FCAEoggI46AdIB1gEaDuIAQGYAQe4AQfIAQzYAQHoAQH4AQKIAgGoAgO4ArLCnaAGwAIB0gIkZjk0MzE1NzYtNjJiYS00OTcyLTgwMWEtOGU1NTgyOGQ1OWE52AIF4AIB&aid=304142&ucfs=1&arphpl=1&checkin=2023-08-27&checkout=2023-09-04&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=18&hapos=18&sr_order=popularity&nflt=review_score%3D80%3Bdistance%3D1000%3Bdi%3D7102&srpvid=bb2697bb78580013&srepoch=1690839289&all_sr_blocks=487811901_269309708_2_0_0&highlighted_blocks=487811901_269309708_2_0_0&matching_block_id=487811901_269309708_2_0_0&sr_pri_blocks=487811901_269309708_2_0_0__147200&from=searchresults#hotelTmpl",
     "title": "Barakah Queen Cayetana",
     "price": "US$1.624"
+  },
+  "Casa Carmela": {
+    "url": "https://www.booking.com/hotel/es/casa-carmela-cadiz.de.html?label=gen173nr-1FCAEoggI46AdIB1gEaDuIAQGYAQe4AQfIAQzYAQHoAQH4AQKIAgGoAgO4ArLCnaAGwAIB0gIkZjk0MzE1NzYtNjJiYS00OTcyLTgwMWEtOGU1NTgyOGQ1OWE52AIF4AIB&aid=304142&ucfs=1&arphpl=1&checkin=2023-08-27&checkout=2023-09-04&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=14&hapos=14&sr_order=popularity&nflt=review_score%3D80%3Bdistance%3D1000%3Bdi%3D7102&srpvid=25b20d46d2bf0242&srepoch=1690854797&all_sr_blocks=1033088501_375935425_7_0_0&highlighted_blocks=1033088501_375935425_7_0_0&matching_block_id=1033088501_375935425_7_0_0&sr_pri_blocks=1033088501_375935425_7_0_0__133400&from=searchresults#hotelTmpl",
+    "title": "Casa Carmela",
+    "price": "US$1.472"
   }
 }
