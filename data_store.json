@@ -1708,5 +1708,10 @@
     "url": "https://www.booking.com/hotel/es/casa-carmela-cadiz.de.html?label=gen173nr-1FCAEoggI46AdIB1gEaDuIAQGYAQe4AQfIAQzYAQHoAQH4AQKIAgGoAgO4ArLCnaAGwAIB0gIkZjk0MzE1NzYtNjJiYS00OTcyLTgwMWEtOGU1NTgyOGQ1OWE52AIF4AIB&aid=304142&ucfs=1&arphpl=1&checkin=2023-08-27&checkout=2023-09-04&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=14&hapos=14&sr_order=popularity&nflt=review_score%3D80%3Bdistance%3D1000%3Bdi%3D7102&srpvid=25b20d46d2bf0242&srepoch=1690854797&all_sr_blocks=1033088501_375935425_7_0_0&highlighted_blocks=1033088501_375935425_7_0_0&matching_block_id=1033088501_375935425_7_0_0&sr_pri_blocks=1033088501_375935425_7_0_0__133400&from=searchresults#hotelTmpl",
     "title": "Casa Carmela",
     "price": "US$1.472"
+  },
+  "SimplyHosted Casa Buda": {
+    "url": "https://www.booking.com/hotel/es/simplyhosted-la-casa-de-buda.de.html?label=gen173nr-1FCAEoggI46AdIB1gEaDuIAQGYAQe4AQfIAQzYAQHoAQH4AQKIAgGoAgO4ArLCnaAGwAIB0gIkZjk0MzE1NzYtNjJiYS00OTcyLTgwMWEtOGU1NTgyOGQ1OWE52AIF4AIB&aid=304142&ucfs=1&arphpl=1&checkin=2023-08-27&checkout=2023-09-04&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=10&hapos=10&sr_order=popularity&nflt=review_score%3D80%3Bdistance%3D1000%3Bdi%3D7102&srpvid=e2113c59ecd30203&srepoch=1690965301&all_sr_blocks=620969401_327280658_2_0_0&highlighted_blocks=620969401_327280658_2_0_0&matching_block_id=620969401_327280658_2_0_0&sr_pri_blocks=620969401_327280658_2_0_0__153645&from=searchresults#hotelTmpl",
+    "title": "SimplyHosted Casa Buda",
+    "price": "US$1.687"
   }
 }
