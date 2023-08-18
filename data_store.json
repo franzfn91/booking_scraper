@@ -1838,5 +1838,20 @@
     "url": "https://www.booking.com/hotel/es/pension-espaa-a.de.html?label=gen173nr-1FCAEoggI46AdIB1gEaDuIAQGYAQe4AQfIAQzYAQHoAQH4AQKIAgGoAgO4ArLCnaAGwAIB0gIkZjk0MzE1NzYtNjJiYS00OTcyLTgwMWEtOGU1NTgyOGQ1OWE52AIF4AIB&aid=304142&ucfs=1&arphpl=1&checkin=2023-08-27&checkout=2023-09-04&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=24&hapos=24&sr_order=popularity&nflt=review_score%3D80%3Bdistance%3D1000%3Bdi%3D7102&srpvid=7c9c90b748a60041&srepoch=1692131697&all_sr_blocks=38787104_372458607_0_0_0&highlighted_blocks=38787104_372458607_0_0_0&matching_block_id=38787104_372458607_0_0_0&sr_pri_blocks=38787104_372458607_0_0_0__101000&from=searchresults#hotelTmpl",
     "title": "Pensi\u00f3n Espa\u00f1a",
     "price": "US$1.101"
+  },
+  "Apartamento Entrecatedrales 2": {
+    "url": "https://www.booking.com/hotel/es/apartamento-entrecatedrales-2.de.html?label=gen173nr-1FCAEoggI46AdIB1gEaDuIAQGYAQe4AQfIAQzYAQHoAQH4AQKIAgGoAgO4ArLCnaAGwAIB0gIkZjk0MzE1NzYtNjJiYS00OTcyLTgwMWEtOGU1NTgyOGQ1OWE52AIF4AIB&aid=304142&ucfs=1&arphpl=1&checkin=2023-08-27&checkout=2023-09-04&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=16&hapos=16&sr_order=popularity&nflt=review_score%3D80%3Bdistance%3D1000%3Bdi%3D7102&srpvid=4dd9193283a80161&srepoch=1692329702&all_sr_blocks=713173201_298248487_2_0_0&highlighted_blocks=713173201_298248487_2_0_0&matching_block_id=713173201_298248487_2_0_0&sr_pri_blocks=713173201_298248487_2_0_0__122000&from=searchresults#hotelTmpl",
+    "title": "Apartamento Entrecatedrales 2",
+    "price": "US$1.331"
+  },
+  "Luxury apartament": {
+    "url": "https://www.booking.com/hotel/es/luxury-apartament-cadiz.de.html?label=gen173nr-1FCAEoggI46AdIB1gEaDuIAQGYAQe4AQfIAQzYAQHoAQH4AQKIAgGoAgO4ArLCnaAGwAIB0gIkZjk0MzE1NzYtNjJiYS00OTcyLTgwMWEtOGU1NTgyOGQ1OWE52AIF4AIB&aid=304142&ucfs=1&arphpl=1&checkin=2023-08-27&checkout=2023-09-04&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=19&hapos=19&sr_order=popularity&nflt=review_score%3D80%3Bdistance%3D1000%3Bdi%3D7102&srpvid=4dd9193283a80161&srepoch=1692329702&all_sr_blocks=801543701_341608789_2_0_0&highlighted_blocks=801543701_341608789_2_0_0&matching_block_id=801543701_341608789_2_0_0&sr_pri_blocks=801543701_341608789_2_0_0__91166&from=searchresults#hotelTmpl",
+    "title": "Luxury apartament",
+    "price": "US$994"
+  },
+  "Casa Comillas - Apartamento Doble": {
+    "url": "https://www.booking.com/hotel/es/casa-comillas-apartamento-doble.de.html?label=gen173nr-1FCAEoggI46AdIB1gEaDuIAQGYAQe4AQfIAQzYAQHoAQH4AQKIAgGoAgO4ArLCnaAGwAIB0gIkZjk0MzE1NzYtNjJiYS00OTcyLTgwMWEtOGU1NTgyOGQ1OWE52AIF4AIB&aid=304142&ucfs=1&arphpl=1&checkin=2023-08-27&checkout=2023-09-04&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=25&hapos=25&sr_order=popularity&nflt=review_score%3D80%3Bdistance%3D1000%3Bdi%3D7102&srpvid=4dd9193283a80161&srepoch=1692329702&all_sr_blocks=496409901_270407607_0_0_0&highlighted_blocks=496409901_270407607_0_0_0&matching_block_id=496409901_270407607_0_0_0&sr_pri_blocks=496409901_270407607_0_0_0__96200&from=searchresults#hotelTmpl",
+    "title": "Casa Comillas - Apartamento Doble",
+    "price": "US$1.049"
   }
 }
