@@ -1903,5 +1903,10 @@
     "url": "https://www.booking.com/hotel/es/cadiz-inn-apartments.de.html?label=gen173nr-1FCAEoggI46AdIB1gEaDuIAQGYAQe4AQfIAQzYAQHoAQH4AQKIAgGoAgO4ArLCnaAGwAIB0gIkZjk0MzE1NzYtNjJiYS00OTcyLTgwMWEtOGU1NTgyOGQ1OWE52AIF4AIB&aid=304142&ucfs=1&arphpl=1&checkin=2023-08-27&checkout=2023-09-04&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=25&hapos=25&sr_order=popularity&nflt=review_score%3D80%3Bdistance%3D1000%3Bdi%3D7102&srpvid=8db697bb07cf032c&srepoch=1692826488&all_sr_blocks=239373902_377381469_2_0_0&highlighted_blocks=239373902_377381469_2_0_0&matching_block_id=239373902_377381469_2_0_0&sr_pri_blocks=239373902_377381469_2_0_0__101171&from_sustainable_property_sr=1&from=searchresults#hotelTmpl",
     "title": "ISA C\u00e1diz",
     "price": "US$1.098"
+  },
+  "Hostal Casa Nautilus": {
+    "url": "https://www.booking.com/hotel/es/casa-nautilus.de.html?label=gen173nr-1FCAEoggI46AdIB1gEaDuIAQGYAQe4AQfIAQzYAQHoAQH4AQKIAgGoAgO4ArLCnaAGwAIB0gIkZjk0MzE1NzYtNjJiYS00OTcyLTgwMWEtOGU1NTgyOGQ1OWE52AIF4AIB&aid=304142&ucfs=1&arphpl=1&checkin=2023-08-27&checkout=2023-09-04&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=23&hapos=23&sr_order=popularity&nflt=review_score%3D80%3Bdistance%3D1000%3Bdi%3D7102&srpvid=6a126d945bac0309&srepoch=1692891305&all_sr_blocks=298861105_148026743_0_0_0&highlighted_blocks=298861105_148026743_0_0_0&matching_block_id=298861105_148026743_0_0_0&sr_pri_blocks=298861105_148026743_0_0_0__68340&from=searchresults#hotelTmpl",
+    "title": "Hostal Casa Nautilus",
+    "price": "US$741"
   }
 }
