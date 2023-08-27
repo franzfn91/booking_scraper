@@ -1958,5 +1958,20 @@
     "url": "https://www.booking.com/hotel/es/dormos.de.html?label=gen173nr-1FCAEoggI46AdIB1gEaDuIAQGYAQe4AQfIAQzYAQHoAQH4AQKIAgGoAgO4ArLCnaAGwAIB0gIkZjk0MzE1NzYtNjJiYS00OTcyLTgwMWEtOGU1NTgyOGQ1OWE52AIF4AIB&aid=304142&ucfs=1&arphpl=1&checkin=2023-08-27&checkout=2023-09-04&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=25&hapos=25&sr_order=popularity&nflt=review_score%3D80%3Bdistance%3D1000%3Bdi%3D7102&srpvid=1f8e749d6eb20212&srepoch=1693154108&all_sr_blocks=593387510_235515116_2_0_0&highlighted_blocks=593387510_235515116_2_0_0&matching_block_id=593387510_235515116_2_0_0&sr_pri_blocks=593387510_235515116_2_0_0__108900&from_sustainable_property_sr=1&from=searchresults#hotelTmpl",
     "title": "Dormos Hotel",
     "price": "US$1.173"
+  },
+  "Hostal Canalejas": {
+    "url": "https://www.booking.com/hotel/es/canalejas.de.html?label=gen173nr-1FCAEoggI46AdIB1gEaDuIAQGYAQe4AQfIAQzYAQHoAQH4AQKIAgGoAgO4ArLCnaAGwAIB0gIkZjk0MzE1NzYtNjJiYS00OTcyLTgwMWEtOGU1NTgyOGQ1OWE52AIF4AIB&aid=304142&ucfs=1&arphpl=1&checkin=2023-08-27&checkout=2023-09-04&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=21&hapos=21&sr_order=popularity&nflt=review_score%3D80%3Bdistance%3D1000%3Bdi%3D7102&srpvid=cc9382b12c6e0335&srepoch=1693161316&all_sr_blocks=38788401_88499234_0_0_0&highlighted_blocks=38788401_88499234_0_0_0&matching_block_id=38788401_88499234_0_0_0&sr_pri_blocks=38788401_88499234_0_0_0__78400&from=searchresults#hotelTmpl",
+    "title": "Hostal Canalejas",
+    "price": "US$844"
+  },
+  "Tandem P\u00f3pulo": {
+    "url": "https://www.booking.com/hotel/es/tandem-populo.de.html?label=gen173nr-1FCAEoggI46AdIB1gEaDuIAQGYAQe4AQfIAQzYAQHoAQH4AQKIAgGoAgO4ArLCnaAGwAIB0gIkZjk0MzE1NzYtNjJiYS00OTcyLTgwMWEtOGU1NTgyOGQ1OWE52AIF4AIB&aid=304142&ucfs=1&arphpl=1&checkin=2023-08-27&checkout=2023-09-04&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=22&hapos=22&sr_order=popularity&nflt=review_score%3D80%3Bdistance%3D1000%3Bdi%3D7102&srpvid=cc9382b12c6e0335&srepoch=1693161316&all_sr_blocks=757434506_370801944_2_0_0&highlighted_blocks=757434506_370801944_2_0_0&matching_block_id=757434506_370801944_2_0_0&sr_pri_blocks=757434506_370801944_2_0_0__123500&from_sustainable_property_sr=1&from=searchresults#hotelTmpl",
+    "title": "Tandem P\u00f3pulo",
+    "price": "US$1.330"
+  },
+  "CASA DEL ANTICUARIO APARTMENTS": {
+    "url": "https://www.booking.com/hotel/es/casa-del-anticuario-apartments.de.html?label=gen173nr-1FCAEoggI46AdIB1gEaDuIAQGYAQe4AQfIAQzYAQHoAQH4AQKIAgGoAgO4ArLCnaAGwAIB0gIkZjk0MzE1NzYtNjJiYS00OTcyLTgwMWEtOGU1NTgyOGQ1OWE52AIF4AIB&aid=304142&ucfs=1&arphpl=1&checkin=2023-08-27&checkout=2023-09-04&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=23&hapos=23&sr_order=popularity&nflt=review_score%3D80%3Bdistance%3D1000%3Bdi%3D7102&srpvid=cc9382b12c6e0335&srepoch=1693161316&all_sr_blocks=750198304_375523491_0_0_0&highlighted_blocks=750198304_375523491_0_0_0&matching_block_id=750198304_375523491_0_0_0&sr_pri_blocks=750198304_375523491_0_0_0__102400&from_sustainable_property_sr=1&from=searchresults#hotelTmpl",
+    "title": "CASA DEL ANTICUARIO APARTMENTS",
+    "price": "US$1.103"
   }
 }
