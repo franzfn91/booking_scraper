@@ -21,7 +21,7 @@ classifiers = [
 dependencies = [
     "aiohttp<4",
     "beautifulsoup4",
-    "lxml<5",
+    "lxml<6",
 ]
 dynamic = ["version"]
 
